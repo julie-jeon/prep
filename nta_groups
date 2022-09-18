@@ -1,0 +1,2802 @@
+"                                 Company Name   company contact  \
+0    100 WALL INVESTMENTS                      Jerry Branam       
+2    120 BROADWAY ACQUISITIONS JV, LLC (LDMK)  Carl Letich        
+3    120 WALL STREET, LLC                      Jason McCalla      
+7    195 BROADWAY, LLC                         Robert Riggs       
+8    2 RECTOR STREET (NY) LLC                  Camille Giardina   
+60   BRUNETTI & BRUNETTI LLC                   Cheryl Brunetti    
+75   CONSTITUTION REALTY LLC (LDMK)            Joe Dorio          
+87   DBAB WALL STREET, LLC.                    Diana Sweeney      
+195  NEW WATER STREET  CORP                    Rich Neal          
+
+                    company email company phone                       Address  \
+0    NaN                           2122487160    96 Wall Street                 
+2    clettich@silvprop.com         2124064020    120 Broadway                   
+3    jmccalla@silvprop.com         2125517391    120 Wall Street                
+7    NaN                           2129203381    195 Broadway                   
+8    Camellia.Giardina@am.jll.com  2126195920    2 Rector Street                
+60   NaN                           2129513501    40 Rector Street               
+75   NaN                           2123442151    26 Broadway                    
+87   NaN                           2126165116    100 William Street, Ste 2002   
+195  NaN                           2124719465    55 Water Street                
+
+         City State  Postcode    Industry     Industry descr Company Type  \
+0    New York  NY    10005     Landlord    NaN                LMEP          
+2    New York  NY    10271     Commercial  NaN                LMEP          
+3    New York  NY    10005     Commercial  Back Offices       LMEP          
+7    NY        NY    10007     Commercial  NaN                LMEP          
+8    New York  NY    10006     Landlord    Back Offices       LMEP          
+60   NY        NY    10006     Commercial  NaN                ECSP          
+75   New York  NY    10004     Landlord    NaN                ECSP          
+87   New York  NY    10038     Commercial  48 story building  ECSP          
+195  New York  NY    10041     Commercial  53 story building  ECSP          
+
+     Current fulltime  Job created  Job retain Effective Date  Total Savings  \
+0    1238.0           NaN          NaN          01/05/2015     302959.40       
+2    2699.0           NaN          NaN          06/30/2017     922407.32       
+3    958.0            NaN          NaN          07/02/2015     368601.17       
+7   NaN               NaN          NaN          03/04/2008     93675.37        
+8    495.0            NaN          NaN          12/02/2019     46523.01        
+60   123.0            NaN          NaN          01/02/2013     10858.38        
+75   2675.0           NaN          NaN          03/05/2009     172185.05       
+87  NaN               NaN          NaN          07/01/2011     742825.88       
+195  500.0            NaN          NaN          08/30/2019     1568981.59      
+
+     Savings from beginning receiving benefits   Borough   Latitude  \
+0    1814542.62                                 New York  40.705052   
+2    3293055.08                                 New York  40.708546   
+3    2090906.36                                 New York  40.704380   
+7    3481992.69                                 New York  40.710536   
+8    221193.90                                  New York  40.707808   
+60   35001.67                                   New York  40.708356   
+75   2827023.71                                 New York  40.705680   
+87   17023100.96                                New York  40.708497   
+195  3396544.16                                 New York  40.703597   
+
+     Longitude  Community Board  Council District  Census Tract        BIN  \
+0   -74.007199  101.0            1.0               7.0           1000875.0   
+2   -74.011041  101.0            1.0               7.0           1001026.0   
+3   -74.006427  101.0            1.0               7.0           1000871.0   
+7   -74.009378  101.0            1.0               13.0          1001227.0   
+8   -74.013053  101.0            1.0               13.0          1001031.0   
+60  -74.014814  101.0            1.0               13.0          1088750.0   
+75  -74.013302  101.0            1.0               9.0           1000811.0   
+87  -74.007477  101.0            1.0               1502.0        1001116.0   
+195 -74.009781  101.0            1.0               9.0           1083346.0   
+
+              BBL                                NTA  
+0    1.000380e+09  Battery Park City-Lower Manhattan  
+2    1.000478e+09  Battery Park City-Lower Manhattan  
+3    1.000370e+09  Battery Park City-Lower Manhattan  
+7    1.000800e+09  Battery Park City-Lower Manhattan  
+8    1.000510e+09  Battery Park City-Lower Manhattan  
+60   1.000558e+09  Battery Park City-Lower Manhattan  
+75   1.000220e+09  Battery Park City-Lower Manhattan  
+87   1.000680e+09  Battery Park City-Lower Manhattan  
+195  1.000328e+09  Battery Park City-Lower Manhattan  "
+"                   Company Name     company contact             company email  \
+19   AESTHETONICS, INC.          EILEEN NEYMAN       eileen@remains.com         
+25   ALLISON EDEN STUDIOS        Garry Goldstein     garry@allisoneden.comP     
+112  FAY DA MANUFACTURING CORP.  Kellen Chow         kellen@fayda.com           
+141  HINDUSTAN GRANITES, INC.    Babureddy  Mareddy  babu@hgstones.com          
+202  NOVO ARTS ASSOCIATES, INC.  Marlaina Deppe      MD@NovoArts.com            
+263  THE WOODWRIGHTS             Wyeth Hunnable      why86@verizon.net          
+267  TWIN MARQUIS, INC           Jing Lin            jing@tmitrading.com        
+268  TWOSEVEN INC.               Franco Gotte        Franco@Twoseven.net        
+293  WONTON FOOD, INC.           DONALD LAU          donaldlau@wontonfood.com   
+294  WOOD WORKS                  Gordon Brawm        brawnworks@gmail.com       
+
+    company phone                      Address       City State  Postcode  \
+19   6467232477    21-29 Belvidere Street       Brooklyn,  NY    11206      
+25   2122439944    164 Cook Street              Brooklyn   NY    11206      
+112  7184569331    186-192 SEIGEL STREET        Brooklyn   NY    11206      
+141  7183836708    280 Johnson Avenue           Brooklyn   NY    11206      
+202  2126743093    246 Seigel St. Ground Floor  Brooklyn   NY    11206      
+263  9175668346    221 McKibbin Street          Brooklyn   NY    11206      
+267  7187446851    7 BUSHWICK PLACE             Brooklyn   NY    11206      
+268  3476122324    221 McKibbin Street Unit 1   Brooklyn   NY    11206      
+293  7186286868    220-222  MOORE STREET        Brooklyn   NY    11206      
+294  9179404950    162 Cook Street              Brooklyn   NY    11206      
+
+          Industry                                         Industry descr  \
+19   Manufacturing  NaN                                                     
+25   Manufacturing  Installer of wood cabinets                              
+112  Manufacturing  Mfg Asian dessert food products                         
+141  Manufacturing  Mfg. of Granite & Stones                                
+202  Manufacturing  Art goods manufacturing                                 
+263  Manufacturing  Mfg. of Wood Cabinets                                   
+267  Manufacturing  MANUFACTUREs noodles, wrappers, dumplings and wontons   
+268  Manufacturing  Display props                                           
+293  Manufacturing  MFG. PASTA, EGGROLL SKINS                               
+294  Manufacturing  Installer of wood furniture                             
+
+    Company Type  Current fulltime  Job created  Job retain Effective Date  \
+19   ECSP         32.0             NaN          NaN          03/12/2009      
+25   ECSP         6.0              NaN          NaN          12/05/2017      
+112  ECSP         15.0             NaN          NaN          07/07/2009      
+141  ECSP         22.0             NaN          NaN          07/06/2011      
+202  ECSP         5.0              NaN          NaN          05/06/2013      
+263  ECSP         2.0              NaN          NaN          02/05/2010      
+267  ECSP         232.0            NaN          NaN          03/07/2012      
+268  ECSP         9.0              NaN          NaN          12/07/2009      
+293  ECSP         210.0             10.0         187.0       12/09/2008      
+294  ECSP         2.0              NaN          NaN          12/05/2017      
+
+     Total Savings  Savings from beginning receiving benefits   Borough  \
+19   6393.98        128478.96                                  Brooklyn   
+25   1586.41        4103.81                                    Brooklyn   
+112  17419.72       295791.46                                  Brooklyn   
+141  10746.27       100084.45                                  Brooklyn   
+202  6977.32        28375.23                                   Brooklyn   
+263  67.01          646.24                                     Brooklyn   
+267  178697.62      1498399.73                                 Brooklyn   
+268  2674.20        52691.45                                   Brooklyn   
+293  35384.76       965843.58                                  Brooklyn   
+294  1457.26        3585.40                                    Brooklyn   
+
+      Latitude  Longitude  Community Board  Council District  Census Tract  \
+19   40.698747 -73.936863  304.0            34.0              389.0          
+25   40.702880 -73.936405  301.0            34.0              485.0          
+112  40.704687 -73.938484  301.0            34.0              485.0          
+141  40.707138 -73.937331  301.0            34.0              485.0          
+202  40.705224 -73.935710  301.0            34.0              485.0          
+263  40.705404 -73.938696  301.0            34.0              485.0          
+267  40.708275 -73.938748  301.0            34.0              485.0          
+268  40.705404 -73.938696  301.0            34.0              485.0          
+293  40.704425 -73.936010  301.0            34.0              485.0          
+294  40.702869 -73.936466  301.0            34.0              485.0          
+
+           BIN           BBL             NTA  
+19   3071776.0  3.031350e+09  Bushwick South  
+25   3071626.0  3.031230e+09  Bushwick South  
+112  3071471.0  3.031000e+09  Bushwick South  
+141  3325872.0  3.030730e+09  Bushwick South  
+202  3400504.0  3.031000e+09  Bushwick South  
+263  3071386.0  3.030820e+09  Bushwick South  
+267  3325825.0  3.030560e+09  Bushwick South  
+268  3071386.0  3.030820e+09  Bushwick South  
+293  3071539.0  3.031090e+09  Bushwick South  
+294  3071625.0  3.031230e+09  Bushwick South  "
+"                                  Company Name     company contact  \
+6    183 LORRIANE STREET LLC                    Tom Sapienza         
+68   CHRISTIE'S FINE ART STORAGE SERVICES, INC  Tim Yule             
+120  FRANKE GOTTSEGEN & COX ARCHITECT.          Erika Franke         
+140  HIGHLINE LOCATIONS LLC                     Alinda Lundry        
+204  OTHER HALF BREWING, CO,                    Nate Lockwood        
+213  PHOENIX BEVERAGE                           Patrick  Simeone     
+214  PICASSO/HOOPS, I LOVE NEW YORK LLC         Jordan Wolfson       
+219  PREMIUM MILLWORK, INC.                     Damaris Alamanzar    
+227  ROXY PAINE LLC                             Roxy Paine           
+252  STINKDIGITAL USA LLC                       Chris Mele           
+286  WHIPPED PASTRY BOUTIQUE, INC.              Michelle  Tampakis   
+
+                       company email company phone  \
+6    tsapienza@KLCNY.com              2128405588     
+68   tyule@christies.com              2126362479     
+120  studio@unionstreetstudiollc.com  718596         
+140  alina@highlinestages.com         2122068280     
+204  nate@otherhalfbrewing.com        9172591014     
+213  Patsimeone@forbee.com            7186097456     
+214  jason.kotara@gmail.com           9174479364     
+219  premiummillwork@gmail.com        7184227774     
+227  sofiampaine@mac.com              6078293214     
+252  ryan.darden@stinkstudio.com      2126339600     
+286  michelletampakis@gmail.com       7187558856     
+
+                         Address      City State  Postcode  \
+6    183 Lorraine Street          Brooklyn  NY    11231      
+68   62 Imlay Street              Brooklyn  NY    11231      
+120  78 Union Street              Brooklyn  NY    11231      
+140  238-252 Conover Street       Brooklyn  NY    11231      
+204  191 Centre Street            Brooklyn  NY    11231      
+213  Pier 7 at Atlantic,Red Hook  Brooklyn  NY    11201      
+214  6 Bay Street                 Brooklyn  NY    11231      
+219  43 Coffey Street             Brooklyn  NY    11231      
+227  413-419 Bond Street          Brooklyn  NY    11231      
+252  160 Van Brunt Street, #2     Brooklyn  NY    11231      
+286  37 Richards Street           Brooklyn  NY    11231      
+
+                             Industry  \
+6    Wholesale/Warehouse/Distribution   
+68   Wholesale/Warehouse/Distribution   
+120  Commercial                         
+140  Wholesale/Warehouse/Distribution   
+204  Manufacturing                      
+213  Wholesale/Warehouse/Distribution   
+214  Manufacturing                      
+219  Manufacturing                      
+227  Manufacturing                      
+252  Commercial                         
+286  Manufacturing                      
+
+                                               Industry descr Company Type  \
+6    Commercial Storage facility                               ECSP          
+68   Fine Arts & Antique storage                               ECSP          
+120  Architecture Design Co.                                   ECSP          
+140  Film production supplies, repairs and lighting warehouse  ECSP          
+204  NaN                                                       ECSP          
+213  Distributor of beverages                                  ECSP          
+214  Manufacturer of Art work                                  ECSP          
+219  Architectural millwork and carpentry                      ECSP          
+227  Art                                                       ECSP          
+252  Advertising & Marketing Services Industry                 ECSP          
+286  Commercial Bakery                                         ECSP          
+
+     Current fulltime  Job created  Job retain Effective Date  Total Savings  \
+6    9.0              NaN          NaN          11/06/2015     31483.87        
+68   9.0              NaN          NaN          11/28/2012     113206.94       
+120  5.0              NaN          NaN          07/10/2014     1396.20         
+140  4.0              NaN          NaN          03/12/2015     514.84          
+204  50.0             NaN          NaN          06/29/2020     528.66          
+213  550.0            NaN          NaN          09/15/2011     108528.74       
+214  2.0              NaN          NaN          02/16/2017     356.45          
+219  5.0              NaN          NaN          01/10/2011     6447.02         
+227  2.0              NaN          NaN          12/17/2014     2057.25         
+252  45.0             NaN          NaN          10/09/2018     276.65          
+286  6.0              NaN          NaN          07/10/2014     2914.67         
+
+     Savings from beginning receiving benefits   Borough   Latitude  \
+6    187637.74                                  Brooklyn  40.673106   
+68   637206.90                                  Brooklyn  40.682405   
+120  8694.99                                    Brooklyn  40.684708   
+140  9722.52                                    Brooklyn  40.676489   
+204  4108.07                                    Brooklyn  40.673707   
+213  1091301.62                                 Brooklyn  40.691285   
+214  3621.07                                    Brooklyn  40.673726   
+219  56248.62                                   Brooklyn  40.674656   
+227  14360.14                                   Brooklyn  40.676570   
+252  851.90                                     Brooklyn  40.682825   
+286  17769.83                                   Brooklyn  40.680349   
+
+     Longitude  Community Board  Council District  Census Tract        BIN  \
+6   -74.002300  306.0            38.0              53.0          3336622.0   
+68  -74.008148  306.0            38.0              53.0          3008286.0   
+120 -74.004183  306.0            39.0              51.0          3004377.0   
+140 -74.016130  306.0            38.0              53.0          3008773.0   
+204 -73.999232  306.0            39.0              77.0          3008188.0   
+213 -74.000992  306.0            39.0              47.0          3424260.0   
+214 -74.009845  306.0            38.0              53.0          3008840.0   
+219 -74.011835  306.0            38.0              53.0          3008822.0   
+227 -73.992170  306.0            39.0              77.0          3008011.0   
+252 -74.006497  306.0            38.0              59.0          3008221.0   
+286 -74.006684  306.0            38.0              59.0          3008253.0   
+
+              BBL                                       NTA  
+6    3.005720e+09  Carroll Gardens-Columbia Street-Red Hook  
+68   3.005150e+09  Carroll Gardens-Columbia Street-Red Hook  
+120  3.003410e+09  Carroll Gardens-Columbia Street-Red Hook  
+140  3.005950e+09  Carroll Gardens-Columbia Street-Red Hook  
+204  3.004790e+09  Carroll Gardens-Columbia Street-Red Hook  
+213  3.002810e+09  Carroll Gardens-Columbia Street-Red Hook  
+214  3.006010e+09  Carroll Gardens-Columbia Street-Red Hook  
+219  3.005990e+09  Carroll Gardens-Columbia Street-Red Hook  
+227  3.004660e+09  Carroll Gardens-Columbia Street-Red Hook  
+252  3.005020e+09  Carroll Gardens-Columbia Street-Red Hook  
+286  3.005120e+09  Carroll Gardens-Columbia Street-Red Hook  "
+"                       Company Name     company contact  \
+5    14-10 123RD STREET LLC          Danica/Ivan Drazic   
+86   DASNY MECHANICAL INC.           George Wu            
+186  MONDIAL AUTOMOTIVE, INC.        Showky Kaldawy       
+211  PEPSI COLA BOTTLING CO., OF NY  Gerard Hewitt        
+216  PINTO & TEGER ELECTRIC          Barrt Teger          
+231  S&L AEROSPACE METALS LLC        TED VARVATSAS        
+235  SHARAN BUILDERS, INC.           Manjit Singh         
+
+                              company email company phone             Address  \
+5    ddrazic@atjelectrical.com               7183210117    14-10 123rd Street   
+86   jf@dasnymech.com                        7183660123    112-20 14th Avenue   
+186  showky.k@gomondial.com                  7184611980    114-15 15TH AVE.     
+211  shermanr@pepsi-ny.com                   7183921018    112-02 15TH AVENUE   
+216  Barryt.teger@pintoandtegerelectric.com  7189397055    14-14 123rd Street   
+231  ted@slaerospace.com                     7188944042    120-12 28TH AVENUE   
+235  sharanbuildersinc@gmail.com             7183611700    128-12 18th Avenue   
+
+              City State  Postcode       Industry  \
+5    College Point  NY    11356     Commercial      
+86   Queens         NY    11356     Manufacturing   
+186  COLLEGE POINT  NY    11356     Manufacturing   
+211  College Point  NY    11356     Manufacturing   
+216  College Point  NY    11356     Commercial      
+231  QUEENS         NY    11354     Manufacturing   
+235  College Point  NY    11356     Commercial      
+
+                                               Industry descr Company Type  \
+5    Electrical Parts Mfg.                                     ECSP          
+86   HVAC systems                                              ECSP          
+186  Alternators, carborators, and other automotive equipment  ECSP          
+211  MANUFACTURER                                              ECSP          
+216  Electrical Contractor                                     ECSP          
+231  aircraft assemblies                                       ECSP          
+235  General Contractor non-residential buildings              ECSP          
+
+     Current fulltime  Job created  Job retain Effective Date  Total Savings  \
+5    35.0             NaN          NaN          03/04/2011     2534.00         
+86   26.0             NaN          NaN          09/30/2011     13018.94        
+186  26.0             NaN          NaN          10/01/2007     1394.78         
+211  231.0             2.0          462.0       05/02/2007     54127.14        
+216  6.0              NaN          NaN          01/03/2011     1322.76         
+231  87.0             NaN          NaN          09/30/2016     44503.65        
+235  10.0             NaN          NaN          06/30/2017     3214.34         
+
+     Savings from beginning receiving benefits Borough   Latitude  Longitude  \
+5    28752.48                                   Queens  40.785144 -73.844833   
+86   86567.97                                   Queens  40.785665 -73.854823   
+186  360459.55                                  Queens  40.783961 -73.852722   
+211  3326530.48                                 Queens  40.783872 -73.854693   
+216  13405.67                                   Queens  40.785114 -73.844836   
+231  196830.67                                  Queens  40.773145 -73.847648   
+235  7208.84                                    Queens  40.783222 -73.840208   
+
+     Community Board  Council District  Census Tract        BIN           BBL  \
+5    407.0            19.0              929.0         4098344.0  4.040850e+09   
+86   407.0            19.0              929.0         4566577.0  4.040470e+09   
+186  407.0            19.0              929.0         4098137.0  4.040670e+09   
+211  407.0            19.0              929.0         4098135.0  4.040650e+09   
+216  407.0            19.0              929.0         4098344.0  4.040850e+09   
+231  407.0            19.0              907.0         4100711.0  4.043170e+09   
+235  407.0            19.0              947.0         4098985.0  4.041340e+09   
+
+               NTA  
+5    College Point  
+86   College Point  
+186  College Point  
+211  College Point  
+216  College Point  
+231  College Point  
+235  College Point  "
+"                       Company Name        company contact  \
+22   ALCHEMY PAINTWORKS LLC          Heather Kelly           
+50   BIGHEAVY STUDIOS                Andrew Barnes           
+52   BJORK CARLE WOODWORKING, INC.   Deirdre   Jones Bjork   
+135  HALMARK ARCHITECTUAL FINISHING  Rachael Lazarus         
+149  INSEK DESIGN                    Ashira Israel           
+159  JOSIAH MCELHENY STUDIO          Mark Shortliffe         
+228  RUFUS CORPORATION               Eve Sussman             
+253  STUDIO UG                       Yuji Yoshimoto          
+295  WUD FURNITURE LLC               Keren Springer          
+
+                       company email company phone  \
+22   heather@alchemypaintworks.com    7184840214     
+50   andrew@bigheavystudios.com       3472953222     
+52   bjorkcarle@earthlink.net         7184842347     
+135  rachel@halmarkarchitectural.com  7182721831     
+149  ashira@insekdesign.com           3473518915     
+159  Markshortliffe@gmail.com         7188550154     
+228  roobaby2@aol.com                 6463736114     
+253  Yuji624@gmail.com                7184992048     
+295  keren@wudfurniture.com           7184867952     
+
+                           Address      City State  Postcode       Industry  \
+22   1102 Atlantic Avenue, Unit 1C  Brooklyn  NY    11238     Commercial      
+50   1102 Atlantic Avenue           Brooklyn  NY    11238     Manufacturing   
+52   1102 Atlantic Avenue, Unit 1A  Brooklyn  NY    11238     Manufacturing   
+135  1768 DEAN STREET               Brooklyn  NY    11232     Commercial      
+149  1102 Atlantic Avenue           Brooklyn  NY    11238     Manufacturing   
+159  1102 Atlantic Avenue, Unit 2F  Brooklyn  NY    11238     Manufacturing   
+228  1545 Dean Street               Brooklyn  NY    11213     Manufacturing   
+253  1102 Atlantic Avenue, Unit 2H  Brooklyn  NY    11238     Manufacturing   
+295  1102 Atlantic Avenue           Brooklyn  NY    11238     Manufacturing   
+
+                                                                                                                          Industry descr  \
+22   Provides spray coatings for art and industry, specializing in paint finishing for metal sculpture as well as repair and restoration   
+50   Manufacturer of visual displays for store windows                                                                                     
+52   cabinetry and architectural milwork                                                                                                   
+135  Manufacturer of architectrual paint for metals                                                                                        
+149  Cast concrete, wood and metal furniture                                                                                               
+159  Art and sculptor,                                                                                                                     
+228  mfg & design cusomt objects for the arts & entertainment industry                                                                     
+253  Industrial Design Services Industry                                                                                                   
+295  We make handcrafted furniture, surfaces, lighting                                                                                     
+
+    Company Type  Current fulltime  Job created  Job retain Effective Date  \
+22   ECSP         2.0              NaN          NaN          01/21/2016      
+50   ECSP         8.0              NaN          NaN          03/15/2016      
+52   ECSP         6.0              NaN          NaN          04/25/2016      
+135  ECSP         40.0             NaN          NaN          07/17/2015      
+149  ECSP         1.0              NaN          NaN          10/21/2016      
+159  ECSP         3.0              NaN          NaN          10/20/2016      
+228  ECSP         2.0              NaN          NaN          12/21/2017      
+253  ECSP         1.0              NaN          NaN          12/23/2015      
+295  ECSP         7.0              NaN          NaN          01/26/2016      
+
+     Total Savings  Savings from beginning receiving benefits   Borough  \
+22   2112.96        12030.29                                   Brooklyn   
+50   978.13         3684.20                                    Brooklyn   
+52   4232.34        22690.93                                   Brooklyn   
+135  17606.37       73171.60                                   Brooklyn   
+149  525.84         2118.09                                    Brooklyn   
+159  7276.72        25095.25                                   Brooklyn   
+228  351.86         1105.98                                    Brooklyn   
+253  757.63         2337.04                                    Brooklyn   
+295  2484.84        12287.32                                   Brooklyn   
+
+      Latitude  Longitude  Community Board  Council District  Census Tract  \
+22   40.679518 -73.956819  308.0            35.0              305.0          
+50   40.679518 -73.956819  308.0            35.0              305.0          
+52   40.679518 -73.956819  308.0            35.0              305.0          
+135  40.675741 -73.929199  308.0            36.0              307.0          
+149  40.679518 -73.956819  308.0            35.0              305.0          
+159  40.679518 -73.956819  308.0            35.0              305.0          
+228  40.676174 -73.936816  308.0            36.0              311.0          
+253  40.679518 -73.956819  308.0            35.0              305.0          
+295  40.679518 -73.956819  308.0            35.0              305.0          
+
+           BIN           BBL                  NTA  
+22   3027572.0  3.011260e+09  Crown Heights North  
+50   3027572.0  3.011260e+09  Crown Heights North  
+52   3027572.0  3.011260e+09  Crown Heights North  
+135  3035818.0  3.013490e+09  Crown Heights North  
+149  3027572.0  3.011260e+09  Crown Heights North  
+159  3027572.0  3.011260e+09  Crown Heights North  
+228  3035656.0  3.013400e+09  Crown Heights North  
+253  3027572.0  3.011260e+09  Crown Heights North  
+295  3027572.0  3.011260e+09  Crown Heights North  "
+"                                    Company Name          company contact  \
+12   55 WATER, LLC                                Jermy Frenkel             
+13   72ANDSUNNY PARTNERS LLC                      Mitchell Gendel           
+30   AMERICAN TRANSIT INSURANCE CO                Edward T McGettigan Jr.   
+66   CHASE BANK, N.A.                             Edward P Rooney           
+92   DEUTSCHE BANK SECURITIES, INC.               Chandra Gopalakrishnan    
+212  PETCARE RX., INC.                            Vijay Manthripragada      
+269  ULANO CORPORATION                            R. David Eisenbeiss       
+274  UTC CORPORATION                              Regina Roch               
+280  W ARCHITECTURE & LANDSCAPE ARCHITECTURE LLC  Barbara Wilks             
+292  WILLIAMS SONOMA, INC.                        Christine Hickman         
+
+                     company email company phone  \
+12   info@MEQS.com                  2127260700     
+13   Rlegati@mdc-partners.com       2129931300     
+30   cryan@american-transit.com     2128578200     
+66   edward.p.rooney@chase.com      2126220004     
+92   chandra.gopalakrishnan@db.com  2122500109     
+212  vmanthripragada@petcarerx.com  5169987041     
+269  grassoe@ulano.com              7182374700     
+274  NaN                            8606129553     
+280  bwilks@w-architecture.com      2129813933     
+292  CHickman@WSGC.com              7187804442     
+
+                                   Address      City State  Postcode  \
+12   51 Water Street                        Brooklyn  NY    11201      
+13   55 Water Street                        Brooklyn  NY    11201      
+30   One MetroTech Center                   Brooklyn  NY    11201      
+66   Three and Four Chase Metrotech Center  Brooklyn  NY    11201      
+92   4 Chase Metrotech Center, 8th Fl       Brooklyn  NY    11201      
+212  1 Metrotech Center                     Brooklyn  NY    11201      
+269  268 Bergen Street                      Brooklyn  NY    11217      
+274  55 Water Street                        Brooklyn  NY    11201      
+280  372-374 Fulton St, 3rd & 4th Fl        Brooklyn  NY    11201      
+292  55 Water Street                        Brooklyn  NY    11201      
+
+                             Industry  \
+12   Commercial                         
+13   Commercial                         
+30   Commercial                         
+66   Commercial                         
+92   Commercial                         
+212  Commercial                         
+269  Manufacturing                      
+274  Commercial                         
+280  Commercial                         
+292  Wholesale/Warehouse/Distribution   
+
+                                                                 Industry descr  \
+12   Management company                                                           
+13   Advertising                                                                  
+30   Insurance                                                                    
+66   Financial Services                                                           
+92   financial services including securities trading, corporate and investment    
+212  Distributes medicines and pet supplies                                       
+269  Screen printing and draft graphics arts industry                             
+274  Commercial company that provides product services Product mgmt., UX design   
+280  Architecture & landscape architecture                                        
+292  high quality products for the home                                           
+
+    Company Type  Current fulltime  Job created  Job retain Effective Date  \
+12   ECSP         5.0              NaN          NaN          08/04/2017      
+13   ECSP         70.0             NaN          NaN          07/06/2017      
+30   ECSP         330.0            NaN          NaN          08/02/2012      
+66   ECSP         3225.0           NaN          NaN          07/03/2017      
+92   ECSP         3.0              NaN          NaN          07/03/2017      
+212  ECSP         135.0            NaN          NaN          05/15/2015      
+269  ECSP         76.0             NaN          NaN          07/06/2011      
+274  ECSP         61.0             NaN          NaN          04/06/2018      
+280  ECSP         7.0              NaN          NaN          12/08/2015      
+292  ECSP         370.0            NaN          NaN          08/06/2018      
+
+     Total Savings  Savings from beginning receiving benefits   Borough  \
+12   7438.51        10657.15                                   Brooklyn   
+13   15473.37       30061.25                                   Brooklyn   
+30   44169.37       331784.18                                  Brooklyn   
+66   405875.22      3098630.05                                 Brooklyn   
+92   2428.59        64256.13                                   Brooklyn   
+212  1581.14        14912.68                                   Brooklyn   
+269  68393.30       703087.79                                  Brooklyn   
+274  26746.14       60210.91                                   Brooklyn   
+280  750.63         3757.68                                    Brooklyn   
+292  26647.13       56547.18                                   Brooklyn   
+
+      Latitude  Longitude  Community Board  Council District  Census Tract  \
+12   40.703304 -73.992156  302.0            33.0              21.0           
+13   40.703301 -73.992047  302.0            33.0              21.0           
+30   40.694059 -73.985741  302.0            33.0              11.0           
+66   40.694059 -73.985741  302.0            33.0              11.0           
+92   40.694059 -73.985741  302.0            33.0              11.0           
+212  40.693463 -73.987227  302.0            33.0              11.0           
+269  40.683922 -73.983303  302.0            33.0              127.0          
+274  40.703301 -73.992047  302.0            33.0              21.0           
+280  40.691597 -73.987714  302.0            33.0              37.0           
+292  40.703301 -73.992047  302.0            33.0              21.0           
+
+           BIN           BBL                                               NTA  
+12   3000000.0  3.000260e+09  DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill  
+13   3000019.0  3.000260e+09  DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill  
+30   3000000.0  3.001420e+09  DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill  
+66   3000000.0  3.001420e+09  DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill  
+92   3000000.0  3.001420e+09  DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill  
+212  3319418.0  3.001470e+09  DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill  
+269  3005967.0  3.003880e+09  DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill  
+274  3000019.0  3.000260e+09  DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill  
+280  3000426.0  3.001540e+09  DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill  
+292  3000019.0  3.000260e+09  DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill  "
+"                            Company Name    company contact  \
+76   CORONET PARTS MANUFACTURING CO. INC  Jeffrey Rodolitz    
+88   DCD MARKETING LTD.                   Mitchell Vilinsky   
+113  FEDERAL EXPRESS                      Samuel Adamson      
+114  FEDERAL EXPRESS                      Samuel Adamson      
+115  FEDERAL EXPRESS                      Samuel Adamson      
+261  THE HANDY TOOL & MFG. CO., INC.      Rochelle Sherman    
+265  TRANSCONTINENTAL ULTRA FLEX , INC.   RONALD BENNETT      
+270  ULTRA CREATIVE CORP.                 ROBERT MOREL        
+283  WATERMARK DESIGN, LTD.               Jack Abel           
+
+                   company email company phone               Address  \
+76   jeff@coronetparts.com        7186490710    883-901 Elton St       
+88   mitch@dcdad.com              7186473000    2744 Atlantic Avenue   
+113  sam.adamson@fedex.com        7187886000    830 Fountain Avenue    
+114  sam.adamson@fedex.com        7187886000    830 Fountain Avenue    
+115  sam.adamson@fedex.com        7187886000    830 Fountain Avenue    
+261  rochelle@handytool.com       7184789203    1205 Rockaway Avenue   
+265  rbennett@ultraflex.com       7182729100    975 ESSEX STREET       
+270  NaN                          7187865151    957 ESSEX STREET       
+283  jabel@watermark-designs.com  7182572800    350 DEWITT AVENUE      
+
+         City State  Postcode       Industry  \
+76   Brooklyn  NY    11208     Manufacturing   
+88   Brooklyn  NY    11207     Commercial      
+113  Brooklyn  NY    11239     Commercial      
+114  Brooklyn  NY    11239     Commercial      
+115  Brooklyn  NY    11239     Commercial      
+261  Brooklyn  NY    11236     Manufacturing   
+265  Brooklyn  NY    11208     Manufacturing   
+270  Brooklyn  NY    11208     Manufacturing   
+283  BROOKLYN  NY    11207     Manufacturing   
+
+                                                              Industry descr  \
+76   Brass fittings for te automotive, plumbing and refrigeration industries   
+88   Advertising and marketing, collating, graphics, printing.                 
+113  OVERNIGHT SHP.                                                            
+114  OVERNIGHT SHP.                                                            
+115  OVERNIGHT SHP.                                                            
+261  Airplne parts                                                             
+265  MFG. & PRINTER PACKAGING                                                  
+270  MFG PLASTIC BAGS                                                          
+283  Decorative Faucets                                                        
+
+    Company Type  Current fulltime  Job created  Job retain Effective Date  \
+76   ECSP         78.0             NaN          NaN          10/17/2007      
+88   ECSP         19.0             NaN          NaN          08/04/2008      
+113  ECSP         77.0             NaN          NaN          07/08/2015      
+114  ECSP         221.0            NaN          NaN          07/05/2007      
+115  ECSP         193.0            NaN          NaN          09/09/2008      
+261  ECSP         29.0             NaN          NaN          01/17/2017      
+265  ECSP         279.0            NaN          NaN          07/07/2017      
+270  ECSP         130.0             15.0         260.0       02/05/1993      
+283  ECSP         44.0             NaN          NaN          04/21/2008      
+
+     Total Savings  Savings from beginning receiving benefits   Borough  \
+76   2261.28        292488.18                                  Brooklyn   
+88   8075.15        171197.31                                  Brooklyn   
+113  64896.54       357832.21                                  Brooklyn   
+114  867.85         378098.57                                  Brooklyn   
+115  9210.43        467120.83                                  Brooklyn   
+261  2808.62        12937.27                                   Brooklyn   
+265  328812.48      949952.30                                  Brooklyn   
+270  10646.47       1242068.09                                 Brooklyn   
+283  8319.02        249813.85                                  Brooklyn   
+
+      Latitude  Longitude  Community Board  Council District  Census Tract  \
+76   40.661508 -73.877722  305.0            42.0              1116.0         
+88   40.676158 -73.892930  305.0            37.0              1198.0         
+113  40.659816 -73.866717  305.0            42.0              1070.0         
+114  40.659816 -73.866717  305.0            42.0              1070.0         
+115  40.659816 -73.866717  305.0            42.0              1070.0         
+261  40.650042 -73.905711  318.0            42.0              1098.0         
+265  40.660379 -73.874732  305.0            42.0              1078.0         
+270  40.660676 -73.874955  305.0            42.0              1078.0         
+283  40.656048 -73.897078  305.0            42.0              1098.0         
+
+           BIN           BBL            NTA  
+76   3327447.0  3.043830e+09  East New York  
+88   3083582.0  3.036910e+09  East New York  
+113  3346449.0  3.044520e+09  East New York  
+114  3346449.0  3.044520e+09  East New York  
+115  3346449.0  3.044520e+09  East New York  
+261  3257088.0  3.081310e+09  East New York  
+265  3098057.0  3.044070e+09  East New York  
+270 NaN        NaN            East New York  
+283  3086089.0  3.038820e+09  East New York  "
+"                               Company Name company contact  \
+44   BCGA CONCEPT CORPORATION                Terry Tang       
+48   BEST CHOICE TRADING CORP                Lee Fung Fong    
+53   BO BO POULTRY MARKET, INC.              Anita Lee        
+132  GRIMM ALES LLC                          Lauren Grimm     
+143  HI-TECH RESOURCE RECOVERY               MICHAEL SIRISI   
+179  MARJAM SUPPLY CO., INC.                 Bruce Respler    
+187  MONTEBELLO FOOD CORP                    Sam Mangano      
+236  SIGNS DECAL CORP.                       BABU KHALFAN     
+243  SKY HIGH MURALS - COLOSSAL MEDIA, INC.  Adrian Moeller   
+257  TECHNICAL LIBRARY SERVICE, INC.         Jacob Salik      
+288  WHITEHEAD COMPANY, INC.                 STEVEN WOLFSON   
+
+                     company email company phone                   Address  \
+44   terry@bcga.com                 2124880661    465 Johnson Avenue         
+48   bestchoiceseafood@yahoo.com    7183662999    146 Stewart Avenue         
+53   bobopoultry@gmail.com          7184170016    1311 Grand Street          
+132  infor@grimmales.com            4093700422    990 Metropolitan Avenue    
+143  tnt71@mrtcarting.com           7183660834    492 Scholes Street         
+179  brespler@marjam.com            6312494900    20 Rewe Street             
+187  sam@montebellofoods.com        7183267210    133 Randolph St            
+236  babu@signsanddecal.com         7184866400    410 MORGAN AVENUE          
+243  adrian@colossalmediagroup.com  7188580979    1109 Metropolitan Avenue   
+257  jake@talasonline.com           2122190770    330 Morgan Avenue          
+288  paul@acmesalesgroup.com        3473423275    251-253  LOMBARDY STREET   
+
+         City State  Postcode                          Industry  \
+44   Brooklyn  NY    11237     Manufacturing                      
+48   Brooklyn  NY    11237     Wholesale/Warehouse/Distribution   
+53   Brooklyn  NY    11211     Manufacturing                      
+132  Brooklyn  NY    11211     Manufacturing                      
+143  Brooklyn  NY    11237     Commercial                         
+179  Brooklyn  NY    11211     Manufacturing                      
+187  BROOKLYN  NY    11237     Wholesale/Warehouse/Distribution   
+236  Brooklyn  NY    11211     Manufacturing                      
+243  Brooklyn  NY    11211     Commercial                         
+257  Brooklyn  NY    11211     Wholesale/Warehouse/Distribution   
+288  Brooklyn  NY    11222     Manufacturing                      
+
+                                                                                                   Industry descr  \
+44   beverage mfg and bottling                                                                                      
+48   Fresh, cured, or frozen fish and seafood                                                                       
+53   Manufacture of poultry products and poultry processing plant                                                   
+132  Manufacturer of beer that are produce and brew in kegs and cans of Artisan Beer for distribution in Brooklyn   
+143  recycling cardboard, plastics & metal                                                                          
+179  Wholesale distributor of building supply products                                                              
+187  warehouse distribution of ethinic food                                                                         
+236  MFG. OF SIGNS & DECALS                                                                                         
+243  outdoor advertising specializing in hand-painted murals                                                        
+257  conservation & archival storage supply house for museums                                                       
+288  MFG. OF HOLLOW METAL                                                                                           
+
+    Company Type  Current fulltime  Job created  Job retain Effective Date  \
+44   ECSP         33.0             NaN          NaN          12/05/2019      
+48   ECSP         24.0             NaN          NaN          03/09/2010      
+53   ECSP         32.0             NaN          NaN          02/01/2013      
+132  ECSP         2.0              NaN          NaN          06/05/2018      
+143  ECSP         14.0             NaN          NaN          03/09/2009      
+179  ECSP         164.0            NaN          NaN          02/06/2008      
+187  ECSP         18.0             NaN          NaN          05/05/2010      
+236  ECSP         29.0             NaN          NaN          06/03/2013      
+243  ECSP         76.0             NaN          NaN          07/05/2017      
+257  ECSP         17.0             NaN          NaN          08/03/2009      
+288  ECSP         4.0              NaN          NaN          10/30/2018      
+
+     Total Savings  Savings from beginning receiving benefits   Borough  \
+44   15081.15       36814.35                                   Brooklyn   
+48   18965.75       304143.90                                  Brooklyn   
+53   29983.97       210971.06                                  Brooklyn   
+132  17007.33       29814.67                                   Brooklyn   
+143  21908.99       492058.44                                  Brooklyn   
+179  1182.37        80222.75                                   Brooklyn   
+187  1248.65        218077.49                                  Brooklyn   
+236  16342.22       100590.44                                  Brooklyn   
+243  5185.47        16687.25                                   Brooklyn   
+257  2753.54        48424.94                                   Brooklyn   
+288  24237.45       39258.98                                   Brooklyn   
+
+      Latitude  Longitude  Community Board  Council District  Census Tract  \
+44   40.708212 -73.929482  301.0            34.0              449.0          
+48   40.711043 -73.926734  301.0            34.0              449.0          
+53   40.715927 -73.924917  301.0            34.0              449.0          
+132  40.714488 -73.936293  301.0            34.0              481.0          
+143  40.711376 -73.927934  301.0            34.0              449.0          
+179  40.716288 -73.931190  301.0            34.0              449.0          
+187  40.709254 -73.927176  301.0            34.0              449.0          
+236  40.718136 -73.936953  301.0            34.0              449.0          
+243  40.714343 -73.932101  301.0            34.0              449.0          
+257  40.715618 -73.935794  301.0            34.0              449.0          
+288  40.724289 -73.930633  301.0            34.0              449.0          
+
+           BIN           BBL                NTA  
+44   3331486.0  3.029740e+09  East Williamsburg  
+48   3258604.0  3.029640e+09  East Williamsburg  
+53  NaN        NaN            East Williamsburg  
+132  3070374.0  3.029180e+09  East Williamsburg  
+143  3070560.0  3.029690e+09  East Williamsburg  
+179  3070500.0  3.029270e+09  East Williamsburg  
+187  3000000.0  3.029760e+09  East Williamsburg  
+236  3070154.0  3.028780e+09  East Williamsburg  
+243  3070491.0  3.029270e+09  East Williamsburg  
+257  3338319.0  3.029090e+09  East Williamsburg  
+288  3069707.0  3.028150e+09  East Williamsburg  "
+"                                  Company Name    company contact  \
+43   BARRY X. BALL STUDIO, INC.                 Barry Ball          
+94   DIAMOND STREET PROPERTIES                  Gina Argento        
+119  FOSTER REEVE & ASSOCIATES, INC.            Foster Reeve        
+130  GREENPOINT AVENUE REALTY LLC               Gina Argento        
+131  GREENPOINT GROUP, LLC                      Mike  Kustanovich   
+162  KICKSTARTER, PBC                           Perry  Chen         
+169  LAFAYETTE GRINDING CORP.                   GOPAL SHARMA        
+177  MARIBEL'S SWEETS, INC.                     Maribel Liberman    
+207  PARALLEL DEVELOPMENT LTD.                  William Pickering   
+209  PEERLESS IMPORTERS, INC.                   Matthew Matassa     
+225  RICHARDS PLUMBING & HEATING CO., INC.      Richard Turchiano   
+241  SILVERMAN CERAMICS, LLC/ALSIO DESIGN, LLC  ROBERT SILVERMAN    
+247  SPECTRUM                                   Brian Wells         
+255  T & M RICHARDSON STREET LLC                Gina Argento        
+
+                    company email company phone                      Address  \
+43   lilla@barryxball.com          7187822319    193 Banker Street             
+94   lunabella3939@aol.com         7183499146    203 Meserole Ave              
+119  creilly@fraplaster.com        7186090090    1155 Manhattan Avenue #1011   
+130  ginabws@gmail.com             7183499093    370 Greenpoint Avenue         
+131  aletaind@aol.com              7183490040    242 Eagle Street              
+162  Finance@kickstarter.com       3478154501    58 Kent St                    
+169  info@lafgrind.com             7183885973    54-56 DOBBIN STREET           
+177  info@mariebelle.com           2122299906    44 Dobbin Street              
+207  will@paralleldevelopment.net  7185990037    810 Humboldt Street           
+209  mmatassa@empiremerchants.com  7183835500    16 BRIDGEWATER STREET         
+225  rturchiano@rph.nyc            7183839900    231 Kent Street               
+241  2bsilverman@gmail.com         9173705858    1155-1205 MANHATTAN AVENUE    
+247  brian.c.wells@charter.com     3143949773    59 Paidge Avenue              
+255  ginabws@gmail.com             7183499093    272 Meserole Avenue           
+
+         City State  Postcode                          Industry  \
+43   Brooklyn  NY    11222     Manufacturing                      
+94   BROOKLYN  NY    11222     Manufacturing                      
+119  Brooklyn  NY    11222     Manufacturing                      
+130  Brooklyn  NY    11222     Manufacturing                      
+131  BROOKLYN  NY    11222     Manufacturing                      
+162  Brooklyn  NY    11222     Commercial                         
+169  Brooklyn  NY    11222     Wholesale/Warehouse/Distribution   
+177  Brooklyn  NY    11222     Manufacturing                      
+207  Brooklyn  NY    11222     Manufacturing                      
+209  BROOKLYN  NY    11222     Wholesale/Warehouse/Distribution   
+225  Brooklyn  NY    11222     Commercial                         
+241  BROOKLYN  NY    11222     Manufacturing                      
+247  Brooklyn  NY    11222     Wholesale/Warehouse/Distribution   
+255  Brooklyn  NY    11222     Manufacturing                      
+
+                                              Industry descr Company Type  \
+43   NaN                                                      ECSP          
+94   film, television production                              ECSP          
+119  Mfg. of Plaster, Molding                                 ECSP          
+130  Film studio productions                                  ECSP          
+131  manufacture air conditioning ducts                       ECSP          
+162  Internet fundraising                                     ECSP          
+169  WHSE METAL GROUND PLATES                                 ECSP          
+177  Chocolate and candies                                    ECSP          
+207  Engineering, design and fabrication studio               ECSP          
+209  Dist. of Wines                                           ECSP          
+225  plumbing, heating and fire protection                    ECSP          
+241  specializing in ceramic prototypes for special projects  ECSP          
+247  Fleet storage and maintenance facility                   ECSP          
+255  Film studio productions                                  ECSP          
+
+     Current fulltime  Job created  Job retain Effective Date  Total Savings  \
+43   15.0             NaN          NaN          08/01/2018     19006.75        
+94   44.0             NaN          NaN          03/04/2008     14170.40        
+119  31.0             NaN          NaN          06/02/2010     3941.88         
+130  2.0              NaN          NaN          11/03/2014     29759.29        
+131  36.0             NaN          NaN          06/02/2008     1124.80         
+162  123.0            NaN          NaN          12/01/2017     16592.79        
+169  13.0             NaN          NaN          01/05/2009     1422.89         
+177  23.0             NaN          NaN          07/02/2009     4248.34         
+207  2.0              NaN          NaN          08/02/2010     917.37          
+209  739.0            NaN          NaN          04/02/2008     4244.62         
+225  67.0             NaN          NaN          05/02/2019     8099.40         
+241  3.0              NaN          NaN          12/03/2007     26.55           
+247  434.0            NaN          NaN          10/01/2007     6816.04         
+255  3.0              NaN          NaN          03/05/2019     26179.97        
+
+     Savings from beginning receiving benefits   Borough   Latitude  \
+43   29709.76                                   Brooklyn  40.725029   
+94   605142.43                                  Brooklyn  40.728643   
+119  48609.78                                   Brooklyn  40.738162   
+130  195526.67                                  Brooklyn  40.732015   
+131  57207.71                                   Brooklyn  40.735569   
+162  44767.49                                   Brooklyn  40.730475   
+169  136633.47                                  Brooklyn  40.723859   
+177  87011.98                                   Brooklyn  40.723636   
+207  16734.35                                   Brooklyn  40.729518   
+209  344465.15                                  Brooklyn  40.727108   
+225  8099.40                                    Brooklyn  40.731238   
+241  1437.94                                    Brooklyn  40.738162   
+247  860520.44                                  Brooklyn  40.736623   
+255  45242.25                                   Brooklyn  40.729410   
+
+     Longitude  Community Board  Council District  Census Tract        BIN  \
+43  -73.955523  301.0            33.0              561.0         3065495.0   
+94  -73.948045  301.0            33.0              573.0         3065441.0   
+119 -73.955442  301.0            33.0              563.0         3404803.0   
+130 -73.944744  301.0            33.0              579.0         3065233.0   
+131 -73.950677  301.0            33.0              579.0         3332274.0   
+162 -73.958839  301.0            33.0              565.0         3337019.0   
+169 -73.953835  301.0            33.0              569.0         3065963.0   
+177 -73.953709  301.0            33.0              569.0         3065961.0   
+207 -73.946078  301.0            33.0              579.0         3065444.0   
+209 -73.934949  301.0            33.0              589.0         3066696.0   
+225 -73.950980  301.0            33.0              579.0         3064651.0   
+241 -73.955442  301.0            33.0              563.0         3404803.0   
+247 -73.949922  301.0            33.0              579.0         3063797.0   
+255 -73.944418  301.0            33.0              589.0         3065929.0   
+
+              BBL         NTA  
+43   3.026160e+09  Greenpoint  
+94   3.026020e+09  Greenpoint  
+119  3.024720e+09  Greenpoint  
+130  3.025830e+09  Greenpoint  
+131  3.025060e+09  Greenpoint  
+162  3.025570e+09  Greenpoint  
+169  3.026430e+09  Greenpoint  
+177  3.026430e+09  Greenpoint  
+207  3.026050e+09  Greenpoint  
+209  3.026660e+09  Greenpoint  
+225  3.025520e+09  Greenpoint  
+241  3.024720e+09  Greenpoint  
+247  3.024910e+09  Greenpoint  
+255  3.026290e+09  Greenpoint  "
+"                                           Company Name  \
+4    139 ACA REALTY, INC.                                 
+9    21ST CENTURY OPTICS, INC.                            
+11   538-540 WEST 35 CORP                                 
+23   ALL CITY METAL, INC.                                 
+27   ALRUE IMPORT COPR.                                   
+29   AMERICAN FOLK ART MUSEUM                             
+31   AMY SCHERBER, INC.                                   
+37   B. THAYER ASSOCIATES                                 
+38   B.C.S. INTERNATIONAL CORPORATION                     
+41   BARK FRAMEWORKS, INC.                                
+46   BERMUDA MOTOR CAR RENTING CO.                        
+51   BIMMY'S LLC                                          
+54   BOYCETECHNOLOGIES, INC.                              
+56   BRIDGE PLAZA ASSOCIATES LLC                          
+61   BURDEN, LLC                                          
+62   CAPLES JEFFERSON ARCHITECTS, PC                      
+67   CHELSEA PLASTICS CORP/PLEXI-CRAFT QUALITY PRODUCTS   
+69   CHRISTIE'S INC.                                      
+70   CITY BAKING LLC AKA BAKERY CITY LLC                  
+71   COLLINS BUILDING SERVICES, INC.                      
+74   CONCEPT FARM, INC.                                   
+77   COSMOS COMMUNICATIONS                                
+81   D.C. CENTER CORP                                     
+84   DANIEL SCUDERI                                       
+96   DR. SMOOD NEW YORK PRODUCTION LLC                    
+99   E&C PROPERTY HOLDINGS SOUTH, INC.                    
+101  EAST COAST ENVELOPE & GRAPHICS, LLC                  
+102  EASTERN CONCEPTS, INC.                               
+103  ECLECTIC/ENCORE PROPERTIES, INC.                     
+105  EMG MEDIA, INC.                                      
+108  EXPORT TRADE OF AMERICA, INC.                        
+111  FAVIANA INTERNATIONAL INC                            
+121  FRESH DIRECT LLC                                     
+122  FRESH DIRECT LLC                                     
+123  GAILER STAMPING & DIE CUTTING, LLC                   
+126  GOLDSTEIN CAPITAL CORP                               
+128  GRAND MERIDIAN PRINTINGS, INC.                       
+129  GRANDSTAND SPORTS & MEMORABILIA, INC.                
+136  HALO  RECOGNITION, INC                               
+144  HOUSE OF SPICES (INDIA), INC                         
+147  IDEAS BY BARBARA                                     
+150  IRON MOUNTAIN                                        
+151  J & B REALTY LLC                                     
+152  J & J JOHNSON GENERAL CONTRACTING CO., INC.          
+155  JDB MARKET CORP.                                     
+164  KONG KEE REALTY CORP                                 
+171  LEEMOR LILLY, LLC                                    
+173  LIQUID KNITS, INC.                                   
+176  MADAME PAULETTE, LIC, LLC                            
+180  MATROS AUTOMATED ELECTRICAL CONST.                   
+182  MECHOSHADE SYSTEMS, INC.                             
+184  MICHAEL C. FINA CO, INC                              
+190  NATIONAL ACOUSTICS, INC.                             
+193  NEUMAN'S KITCHEN                                     
+196  NEW YORK BLOOD CENTER                                
+197  NEW YORK DIGITAL COLOR LITHOGRAPHERS PRINTERS, INC   
+201  NOVELTY CRYSTAL CORP.                                
+220  PRESENTATION PRODUCTS, INC.                          
+221  QUALITY CASTING, INC.                                
+233  SCULPTURE HOUSE CASTING, INC.                        
+234  SDC DESIGNS LLC                                      
+239  SILVERCUP SERVICES LLC                               
+240  SILVERCUP SERVICES LLC                               
+242  SIZZAL, LLC                                          
+244  SKYLINE RESTORATION, INC.                            
+248  SPIN MASTER, INC.                                    
+249  SPIN MASTER, INC.                                    
+250  SSJ CONTRACTING                                      
+251  STAND AND BUILD LLC                                  
+258  TEI GROUP                                            
+271  UNITED AIR CONDITIONING CORP                         
+272  UNITED NATIONS FEDERAL CREDIT UNION                  
+276  VAYNERMEDIA LLC                                      
+278  VERNON LAKES PARTNERS                                
+284  WERWAISS & CO., INC.                                 
+
+           company contact                      company email company phone  \
+4    Eitan Chandally        barbara@dial7.com                  7187076123     
+9    Ralph Woythaler        rwoythaler@21st centuryoptics.com  7183922310     
+11   Richard Silver         tankman220@aol.com                 2127366618     
+23   Frank Buccola          Johnmd@allcitymetal.com            7184725700     
+27   Avi Shaul              avi@alrue.com                      7183928877     
+29   Anne-Imelda Radice     areilly@folkartmuseum.org          2122651040     
+31   AMY SCHERBER           amy@amysbread.com                  2124622038     
+37   Barbara  Thayer        bthayer@bthayerassociates.com      7189423320     
+38   Dae Hyun  Yoo          david@bcsroyal.com                 7183923355     
+41   Jared  Bark            jbark@barkframeworks.com           7187521919     
+46   Robert A. Verdi        peter@bermudalimo.com              2122432591     
+51   ELLIOT FREAD           elliot@bimmys.com                  7183613144     
+54   Charles Boyce          nmenon@boycetech.com               718685252      
+56   GARY KESNER            gkesner@silvercupstudios.com       7187843390     
+61   Jonathan Burden        info@jonathanburden.com            2129418247     
+62   Sara  Caples           sarac@capjeff.com                  2127799772     
+67   Allen Frechter         allen@plexi-craft.com              2129243244     
+69   Edward Dolman          jkuduk@christies.com               2126362602     
+70   Barry Blaine           citybaking@aol.com                 7183928514     
+71   Arthur J. Viviani      Aviviani@cbs-collins.com           2128965144     
+74   Griffin Stenger        angel@conceptfarm.com              2124639939     
+77   Jack   Weiss           jweiss@cosmoscommunications.com    7184821800     
+81   Albert Lee             dccentercorp@gmail.com             7184725600     
+84   David Scuderi          danielscuderi@Danielscuderi.com    2129472499     
+96   Dan Schwartz           dans@drsmood.com                   5162428036     
+99   Gerard Finkel          vmundo@jibei.com                   7185912000     
+101  RICARDO  WILKOWSKI     ricardow@interstate-envelope.com   7183262424     
+102  ERIC GREENBERG         ericg@gm-graphics.com              2124723377     
+103  Suri Bieler            suri@eclecticprops.com             2126458880     
+105  Adam Pierce            adamp@emgmediainc.com              2129939429     
+108  Henry Lapiddos         henry@export-sales.com             2126735000     
+111  Omid Pourmoradi        omid@faviana.com                   2125944422     
+121  JOE LACY               gbennett@freshdirect.com           2128222203     
+122  JOE LACY               gbennett@freshdirect.com           2128222203     
+123  Dennis Dourgarian      ddourgarian@gailer.com             2122435662     
+126  Paul Goldstein         paulg@goldsteincapital.com         2127507450     
+128  Kwok Yim Chow          gm3343388@aol.com                  7189373888     
+129  Howard Schwartz        scottw@grandstandsports.com        2125328900     
+136  Kristy Grippo          kristy.grippo@halo.com             7186098120     
+144  Ashwin  Shah           ashwinshah@houseofspicesindia.com  7185074600     
+147  Barbara Szafianski     msza@aol.com                       7187070910     
+150  Dan Anninos            therman@ArtexFAS.com               617-535-28     
+151  Harold Roseberg        haroldr@galwein.com                7187845210     
+152  Joe Galea              joe@jandjjohnson.com               7183923033     
+155  John Burdo             marian@johnsnyc.com                7184828422     
+164  KENT KONG              BG20744@hotmail.com                7189372746     
+171  Eitan  Chandally       chandally@aol.com                  2127777777     
+173  Jeffrey Schechter      jeff@horizonmills.net              6466741185     
+176  ROB MOREL              jm@madamepaulette.com              7183490050     
+180  Stuart Moskowitz       darin@matros.com                   7184821000     
+182  Jan Breman             jan.berman@mechoshade.com          7187292020     
+184  George Fina            gfina@mcfina.com                   2125572500     
+190  William Jessop         bjessop@nationalacoustics.com      2126951252     
+193  Paul Neuman            p.neuman@neumanskitch.com          2122882444     
+196  Zamena Kassim          zkassim@nybc.org                   2125703451     
+197  Eric Cohen             ecohen@nydigitalcolor.com          7187646777     
+201  Ashner Michaeli        joe@noveltycrystal.com             7184586700     
+220  Orin Knopp             dknopp@presentationproducts.com    212584477      
+221  Carl Morfino           carl@qualitycasting.com            2123912962     
+233  Michael Perrotta       info@sculpturehousecasting.com     7187079430     
+234  Sridhar Krishnan       sridhar@sdcdesigns.com             6468980845     
+239  GARY KESNER            gkesner@silvercupstudios.com       7189062300     
+240  GARY KESNER            gkesner@silvercupstudios.com       7189062300     
+242  Al Weiss               al@influencegraphics.com           7183614205     
+244  Rygo Foss              rygo.foss@skylinerestoration.com   7189375353     
+248  Mark Segal             hollyp@spinmaster.com              4163646002     
+249  Mark Segal             hollyp@spinmaster.com              4163646002     
+250  Seeta  Singh           seeta.ssj@gmail.com                7187867877     
+251  Emily Kohl-Mattingley  emily@standandbuild.com            7185931900     
+258  Deborah Brooks         dbrooks@teigroup.com               7186092457     
+271  Joseph Grgas           vmaniti@unitedair.com              7183925622     
+272  Michael LaFrance       mlafrance@unfcu.com                3474183046     
+276  Gary Vaynerchuk        gary@vaynermedia.com               9179412848     
+278  Arnaud  Thieffry       windom.paul@petrossian.com         2123370808     
+284  John  Wersaiss         JW@werwaissandco.com               9173187800     
+
+                           Address              City State  Postcode  \
+4    43-23 35th Street              Long Island City  NY    11101      
+9    47-00 33rd Street              Lond Island City  NY    11101      
+11   11-42 46th Road                Queens            NY    11101      
+23   54-35 46th Street              Long Island City  NY    11101      
+27   10-40 45TH AVENUE              Long Island City  NY    11101      
+29   32-23 48th Avenue              Long Island City  NY    11101      
+31   48-09 34th St.                 Long Island City  NY    11101      
+37   37-18 Northern Blvd            Long Island City  NY    11101      
+38   47-15 33rd St                  Queens            NY    11101      
+41   21-24 44TH AVENUE              Queens            NY    11101      
+46   21-30 44th Road                Long Island City  NY    11101      
+51   47-00 33rd Street              Long Island City  NY    11101      
+54   47-22 Pearson Place            Long Island City  NY    11101      
+56   21-21 43RD AVE.                QUEENS            NY    11101      
+61   47-20 33rd Street              Long Island City  NY    11101      
+62   37-18 Northern Blvd.           Queens            NY    11101      
+67   30-02 48th Avenue              Long Island City  NY    11101      
+69   32-35 48th Avenue              Long Island City  NY    11101      
+70   10-41 45th Avenue              Long Island City  NY    11101      
+71   24-01 44th Road                Long Island City  NY    11101      
+74   11-25 44th Road                Long Island City  NY    11101      
+77   11-05 44TH DRIVE               Queens            NY    11101      
+81   47-75 48th St.                 Queens            NY    11377      
+84   47-15 Barnett  Avenue          Queens            NY    11101      
+96   47-10 Austel Place             Long Island City  NY    11101      
+99   48-40 34th Street              Long Island City  NY    11101      
+101  56-05 55th Dr                  Queens            NY    11378      
+102  11030 45TH ROAD                LONG ISLAND CITY  NY    11101      
+103  47-51 33rd Street              Long Island City  NY    11101      
+105  11-11 44th Drive               Queens            NY    11101      
+108  44-61 11th Street              Long Island City  NY    11101      
+111  31-10 Hunters Point Ave        Queens            NY    11101      
+121  23-30 BORDEN AVENUE            Queens            NY    11101      
+122  23-30 BORDEN AVENUE            Queens            NY    11101      
+123  37-18 Northern Blvd.           Long Island City  NY    11101      
+126  43-01 22nd Street, Suite 516   Queens            NY    11101      
+128  31-16 Hunters Point Ave        Queens            NY    11101      
+129  37-18 Northern Blvd            Long Island City  NY    11101      
+136  30-30 47th Avenue, Suite #630  Long Island City  NY    11101      
+144  57-07 49th Place               Queens            NY    11368      
+147  37-18 Northern Blvd            Queens            NY    11101      
+150  33-20 48 Ave                   Long Island City  NY    11101      
+151  11-20 43rd Rd                  Queens            NY    11101      
+152  42-26 13th Street              Queens            NY    11101      
+155  25-34 50th Avenue              Long Island City  NY    11101      
+164  32-15 HUNTERS POINT AVENUE     LONG ISLAND CITY  NY    11101      
+171  43-31 35th Street              Queens            NY    11101      
+173  32-00 Skillman Avenue          Long Island City  NY    11101      
+176  42-20 12TH STREET              Long Island City  NY    11101      
+180  5-33 50th Avenue               Long Island City  NY    11101      
+182  42-03 35th Street              Long Island City  NY    11101      
+184  33-01 HUNTERS POINT AVENUE     Queens            NY    11101      
+190  13-06 43rd Avenue              Long Island City  NY    11101      
+193  35-02 48th Avenue              Long Island City  NY    11101      
+196  45-01 VERNON BLVD.             LONG ISLAND CITY  NY    11101      
+197  47-10 33rd St, Ground Fl       Queens            NY    11101      
+201  30-15 48th Avenue              LONG ISLAND CITY  NY    11101      
+220  30-02 48th Avenue              Long Island City  NY    11220      
+221  3100 47th Avenue               Long Island City  NY    11101      
+233  43-77 9th Street               Queens            NY    11101      
+234  30-30 47th Avenue, Suite 520   Queens            NY    11101      
+239  42-22 22nd Street              Long Island City  NY    11101      
+240  42-22 22nd Street              Long Island City  NY    11101      
+242  11-05 44th Road                Queens            NY    11101      
+244  49-27 31st Street              Long Island City  NY    11101      
+248  30-30 47th Avenue              Lond Island City  NY    11101      
+249  30-30 47th Avenue              Lond Island City  NY    11101      
+250  10-40 45th Avenue              Long Island City  NY    11101      
+251  51-02 21st Street, Suite 6E    Long Island City  NY    11101      
+258  30-00 47TH AVENUE, #610        Long Island City  NY    11101      
+271  27-02 Skillman Avenue          Long Island City  NY    11101      
+272  24-01 44 Rd.                   Queens            NY    11101      
+276  21-09 Borden Avenue            Long Island City  NY    11101      
+278  11-39 46th Road                Long Island City  NY    11101      
+284  22-15 43rd Ave, Ste 300        Queens            NY    11101      
+
+                             Industry  \
+4    Commercial                         
+9    Manufacturing                      
+11   Manufacturing                      
+23   Manufacturing                      
+27   Manufacturing                      
+29   Wholesale/Warehouse/Distribution   
+31   Manufacturing                      
+37   Other                              
+38   Wholesale/Warehouse/Distribution   
+41   Manufacturing                      
+46   Commercial                         
+51   Manufacturing                      
+54   Manufacturing                      
+56   Manufacturing                      
+61   Manufacturing                      
+62   Commercial                         
+67   Manufacturing                      
+69   Wholesale/Warehouse/Distribution   
+70   Wholesale/Warehouse/Distribution   
+71   Commercial                         
+74   Manufacturing                      
+77   Manufacturing                      
+81   Commercial                         
+84   Manufacturing                      
+96   Manufacturing                      
+99   Commercial                         
+101  Manufacturing                      
+102  Manufacturing                      
+103  Commercial                         
+105  Commercial                         
+108  Commercial                         
+111  Manufacturing                      
+121  Manufacturing                      
+122  Manufacturing                      
+123  Manufacturing                      
+126  Commercial                         
+128  Manufacturing                      
+129  Wholesale/Warehouse/Distribution   
+136  Wholesale/Warehouse/Distribution   
+144  Manufacturing                      
+147  Manufacturing                      
+150  Wholesale/Warehouse/Distribution   
+151  Wholesale/Warehouse/Distribution   
+152  Manufacturing                      
+155  Wholesale/Warehouse/Distribution   
+164  Manufacturing                      
+171  Commercial                         
+173  Manufacturing                      
+176  Commercial                         
+180  Commercial                         
+182  Commercial                         
+184  Manufacturing                      
+190  Manufacturing                      
+193  Manufacturing                      
+196  Commercial                         
+197  Manufacturing                      
+201  Manufacturing                      
+220  Commercial                         
+221  Manufacturing                      
+233  Manufacturing                      
+234  Manufacturing                      
+239  Manufacturing                      
+240  Manufacturing                      
+242  Manufacturing                      
+244  Other                              
+248  Other                              
+249  Other                              
+250  Manufacturing                      
+251  Manufacturing                      
+258  Manufacturing                      
+271  Manufacturing                      
+272  Other                              
+276  Other                              
+278  Manufacturing                      
+284  Commercial                         
+
+                                                                        Industry descr  \
+4    Limousine Service                                                                   
+9    Eye glasses                                                                         
+11   steel, wood & cement tanks                                                          
+23   Sheet Metal design and fabrication                                                  
+27   Mfg. of Jewelry Setting                                                             
+29   Fine Art Storage & Collection                                                       
+31   WHOLESALE BAKERY                                                                    
+37   Landscape Architect                                                                 
+38   Groceries                                                                           
+41   MFG. (WOOD PRODUCTS)                                                                
+46   Back Office                                                                         
+51   MANUFACTURER                                                                        
+54   Life Saving Communication Devices                                                   
+56   Film Studio                                                                         
+61   Manufacture and refurbisher of furniture                                            
+62   architectural services, bldg design                                                 
+67   Acrylic furniture                                                                   
+69   Commercial Auction house and warehouse                                              
+70   Commercial Baker                                                                    
+71   Janitorial services firm                                                            
+74   Advertsing service and video production                                             
+77   MFG. (PRINTING)                                                                     
+81   Commercial Dry Cleaning Plant                                                       
+84   Antique Furniture                                                                   
+96   Food                                                                                
+99   Real Estate                                                                         
+101  MFG. OF ENVELOPES                                                                   
+102  Signs and Award Plaques                                                             
+103  Prop and rental company                                                             
+105  organize corp events and sales promo svcs                                           
+108  Exporter of american groceries                                                      
+111  design & manufacture women''''''''s evening wear                                    
+121  MFG. PERIS. FOOD                                                                    
+122  MFG. PERIS. FOOD                                                                    
+123  Die Cutting                                                                         
+126  investment advisory                                                                 
+128  COMMERCIAL PRINTER                                                                  
+129  Provider of authentic celebrity and sports memorabilia                              
+136  Distribute promotional products                                                     
+144  spices and east Asian culinary goods                                                
+147  Womens dresses                                                                      
+150  Storage of fine arts and fine arts services.                                        
+151  Warehouse and distribute wire cable communication products                          
+152  Furniture and wooden cabinets                                                       
+155  Grocery Stores & Supermarkets Industry                                              
+164  Toufu, soy beans and rice products.                                                 
+171  Limousine call center                                                               
+173  Manufacturer of women outter wear                                                   
+176  CLEANERS                                                                            
+180  fully licensed and insured electrical contractor specializing in maintenance, ...   
+182  Manufacturer of shades                                                              
+184  PRINTER                                                                             
+190  Capentry, drywall Acoustics                                                         
+193  Special events caterer                                                              
+196  Blood processing                                                                    
+197  Printer and binder                                                                  
+201  Plastic goods                                                                       
+220  Audio visual company                                                                
+221  Jewelry castings                                                                    
+233  mold making and casting                                                             
+234  Jewelry mfg and design                                                              
+239  MFG- MOVIE AND TV PROD                                                              
+240  MFG- MOVIE AND TV PROD                                                              
+242  digital and large format printing                                                   
+244  Painting & Wall Covering Contractors Industry                                       
+248  Novelty Products                                                                    
+249  Novelty Products                                                                    
+250  apparels                                                                            
+251  Fixtures, displays and furniture                                                    
+258  Elevator Construction Repair & Maintenance Service                                  
+271  Fabrication of HVAC Syetems                                                         
+272  Landlord                                                                            
+276  sound stages, photography studios and audio-mixing studio                           
+278  Distributor of repackage frozen specialty foods                                     
+284  Real estate management                                                              
+
+    Company Type  Current fulltime  Job created  Job retain Effective Date  \
+4    ECSP         125.0            NaN          NaN          04/07/2008      
+9    ECSP         130.0            NaN          NaN          01/07/2009      
+11   ECSP         16.0             NaN          NaN          06/07/2010      
+23   ECSP         65.0             NaN          NaN          05/15/2015      
+27   ECSP         6.0              NaN          NaN          06/07/2011      
+29   ECSP         5.0              NaN          NaN          03/10/2015      
+31   ECSP         130.0            NaN          NaN          01/07/2013      
+37   ECSP         4.0              NaN          NaN          01/02/2015      
+38   ECSP         12.0             NaN          NaN          12/06/2007      
+41   ECSP         53.0             NaN          NaN          06/08/2015      
+46   ECSP         90.0             NaN          NaN          06/08/2012      
+51   ECSP         192.0            NaN          NaN          03/09/2017      
+54   ECSP         73.0             NaN          NaN          03/09/2017      
+56   ECSP         51.0             NaN          NaN          02/06/2019      
+61   ECSP         6.0              NaN          NaN          12/07/2016      
+62   ECSP         6.0              NaN          NaN          10/30/2011      
+67   ECSP         15.0             NaN          NaN          03/31/2016      
+69   ECSP         40.0             NaN          NaN          06/07/2011      
+70   ECSP         19.0             NaN          NaN          07/08/2014      
+71   ECSP         2424.0           NaN          NaN          10/03/2008      
+74   ECSP         18.0             NaN          NaN          03/08/2018      
+77   ECSP         65.0             NaN          NaN          02/06/2008      
+81   ECSP         28.0             NaN          NaN          10/14/2008      
+84   ECSP         5.0              NaN          NaN          10/14/2016      
+96   ECSP         13.0             NaN          NaN          08/04/2017      
+99   ECSP         484.0            NaN          NaN          08/06/2018      
+101  ECSP         52.0             NaN          NaN          10/17/2016      
+102  ECSP         9.0              NaN          NaN          11/04/2015      
+103  ECSP         18.0             NaN          NaN          07/08/2015      
+105  ECSP         24.0             NaN          NaN          07/08/2015      
+108  ECSP         11.0             NaN          NaN          06/08/2009      
+111  ECSP         8.0              NaN          NaN          07/07/2016      
+121  ECSP         200.0            NaN          NaN          10/05/2010      
+122  ECSP         2565.0           NaN          NaN          08/08/2017      
+123  ECSP         30.0             NaN          NaN          06/02/2010      
+126  ECSP         5.0              NaN          NaN          11/02/2018      
+128  ECSP         31.0             NaN          NaN          06/08/2009      
+129  ECSP         16.0             NaN          NaN          03/06/2017      
+136  ECSP         93.0             NaN          NaN          06/05/2020      
+144  ECSP         37.0             NaN          NaN          07/14/2017      
+147  ECSP         12.0             NaN          NaN          04/03/2012      
+150  ECSP         42.0             NaN          NaN          08/06/2014      
+151  ECSP         30.0             NaN          NaN          11/02/2017      
+152  ECSP         31.0             NaN          NaN          02/07/2012      
+155  ECSP         16.0             NaN          NaN          04/06/2012      
+164  ECSP         32.0             NaN          NaN          01/07/2008      
+171  ECSP         125.0            NaN          NaN          01/07/2009      
+173  ECSP         15.0             NaN          NaN          02/07/2012      
+176  ECSP         50.0             NaN          NaN          03/10/2009      
+180  ECSP         51.0             NaN          NaN          01/06/2011      
+182  ECSP         233.0            NaN          NaN          01/07/2012      
+184  ECSP         13.0             NaN          NaN          01/07/2016      
+190  ECSP         123.0            NaN          NaN          07/22/2015      
+193  ECSP         104.0            NaN          NaN          06/07/2016      
+196  ECSP         280.0            NaN          NaN          05/05/2017      
+197  ECSP         21.0             NaN          NaN          05/07/2013      
+201  ECSP         29.0             NaN          NaN          11/02/2007      
+220  ECSP         25.0             NaN          NaN          02/06/2018      
+221  ECSP         42.0             NaN          NaN          09/04/2009      
+233  ECSP         14.0             NaN          NaN          05/07/2015      
+234  ECSP         53.0             NaN          NaN          04/06/2018      
+239  ECSP         47.0             NaN          NaN          10/07/2016      
+240  ECSP         10.0             NaN          NaN          05/06/2008      
+242  ECSP         19.0             NaN          NaN          01/06/2011      
+244  ECSP         507.0            NaN          NaN          12/06/2018      
+248  ECSP         76.0             NaN          NaN          11/04/2019      
+249  ECSP         60.0             NaN          NaN          07/07/2020      
+250  ECSP         15.0             NaN          NaN          12/06/2018      
+251  ECSP         2.0              NaN          NaN          05/05/2017      
+258  ECSP         289.0            NaN          NaN          06/05/2020      
+271  ECSP         125.0            NaN          NaN          10/05/2010      
+272  ECSP         278.0            NaN          NaN          11/02/2007      
+276  ECSP         100.0            NaN          NaN          10/04/2017      
+278  ECSP         46.0             NaN          NaN          01/07/2012      
+284  ECSP         6.0              NaN          NaN          10/04/2018      
+
+     Total Savings  Savings from beginning receiving benefits Borough  \
+4    1637.29        129401.39                                  Queens   
+9    28291.04       288983.01                                  Queens   
+11   4853.46        56744.11                                   Queens   
+23   25418.76       118916.37                                  Queens   
+27   7448.69        78631.89                                   Queens   
+29   8115.63        39891.42                                   Queens   
+31   33292.12       219841.25                                  Queens   
+37   1244.62        6519.95                                    Queens   
+38   4462.17        317144.12                                  Queens   
+41   18951.44       103539.43                                  Queens   
+46   4879.42        39328.71                                   Queens   
+51   31803.62       96057.08                                   Queens   
+54   90699.74       273099.33                                  Queens   
+56   20274.39       25201.79                                   Queens   
+61   1158.02        2874.67                                    Queens   
+62   549.56         5972.73                                    Queens   
+67   11775.69       45530.62                                   Queens   
+69   14656.28       341927.86                                  Queens   
+70   9463.36        49780.68                                   Queens   
+71   619.16         40423.96                                   Queens   
+74   4902.69        14171.29                                   Queens   
+77   4642.13        458645.30                                  Queens   
+81   13411.51       366741.43                                  Queens   
+84   3098.28        12887.99                                   Queens   
+96   18063.17       25351.90                                   Queens   
+99   43188.32       100909.46                                  Queens   
+101  23482.74       180478.26                                  Queens   
+102  2192.15        10145.32                                   Queens   
+103  13774.83       59343.65                                   Queens   
+105  4164.80        13953.54                                   Queens   
+108  804.75         19156.06                                   Queens   
+111  8388.06        32481.15                                   Queens   
+121  33328.86       453415.19                                  Queens   
+122  740244.55      1989179.05                                 Queens   
+123  1057.81        52481.11                                   Queens   
+126  886.29         1612.61                                    Queens   
+128 -30.82          45996.81                                   Queens   
+129  1098.22        6234.39                                    Queens   
+136  534.71         1838.98                                    Queens   
+144  19441.56       50700.94                                   Queens   
+147  927.35         9992.00                                    Queens   
+150  40327.91       269728.98                                  Queens   
+151  5894.90        18520.03                                   Queens   
+152  8460.17        70460.82                                   Queens   
+155  12693.31       69426.14                                   Queens   
+164  6615.25        599205.25                                  Queens   
+171  1134.13        14618.91                                   Queens   
+173  3802.86        98717.83                                   Queens   
+176  5889.50        204506.64                                  Queens   
+180  954.09         22828.17                                   Queens   
+182  34002.60       251975.03                                  Queens   
+184  698.25         2543.95                                    Queens   
+190  6668.68        41069.55                                   Queens   
+193  26192.15       116149.86                                  Queens   
+196  199253.20      740304.08                                  Queens   
+197  10329.55       70251.94                                   Queens   
+201  1558.05        194561.38                                  Queens   
+220  2935.82        8533.44                                    Queens   
+221  7291.58        154751.06                                  Queens   
+233  2835.27        15055.23                                   Queens   
+234  9858.30        24733.00                                   Queens   
+239  39801.68       185348.05                                  Queens   
+240  22395.81       1335829.73                                 Queens   
+242  145.47         69259.46                                   Queens   
+244  5845.43        8334.93                                    Queens   
+248  3497.94        4084.83                                    Queens   
+249  172.82         962.95                                     Queens   
+250  3078.09        3078.09                                    Queens   
+251  1783.69        4687.04                                    Queens   
+258  2676.25        9017.13                                    Queens   
+271  12962.55       144574.35                                  Queens   
+272  6802.34        913825.12                                  Queens   
+276  34845.60       94611.16                                   Queens   
+278  14122.57       95282.07                                   Queens   
+284  2132.69        3335.97                                    Queens   
+
+      Latitude  Longitude  Community Board  Council District  Census Tract  \
+4    40.745706 -73.929565  402.0            26.0              179.0          
+9    40.742386 -73.932148  402.0            26.0              199.0          
+11   40.745510 -73.949497  402.0            26.0              7.0            
+23   40.730657 -73.922148  402.0            30.0              205.0          
+27   40.748053 -73.951224  402.0            26.0              7.0            
+29   40.740913 -73.933240  402.0            26.0              199.0          
+31   40.740357 -73.931580  402.0            26.0              199.0          
+37   40.752096 -73.925887  401.0            26.0              171.0          
+38   40.742197 -73.932167  402.0            26.0              199.0          
+41   40.749420 -73.946282  402.0            26.0              19.0           
+46   40.748624 -73.945972  402.0            26.0              19.0           
+51   40.742386 -73.932148  402.0            26.0              199.0          
+54   40.742724 -73.942538  402.0            26.0              1.0            
+56   40.750158 -73.944653  402.0            26.0              19.0           
+61   40.742122 -73.932203  402.0            26.0              199.0          
+62   40.752096 -73.925887  401.0            26.0              171.0          
+67   40.741426 -73.937833  402.0            26.0              199.0          
+69   40.740902 -73.933139  402.0            26.0              199.0          
+70   40.748069 -73.951216  402.0            26.0              7.0            
+71   40.748206 -73.943731  402.0            26.0              19.0           
+74   40.749237 -73.949061  402.0            26.0              19.0           
+77   40.748483 -73.949285  402.0            26.0              19.0           
+81   40.739695 -73.917482  402.0            26.0              235.0          
+84   40.750033 -73.915867  402.0            26.0              171.0          
+96   40.743404 -73.941909  402.0            26.0              1.0            
+99   40.740316 -73.931613  402.0            26.0              199.0          
+101  40.726479 -73.914291  402.0            30.0              219.0          
+102  40.746929 -73.949225  402.0            26.0              7.0            
+103  40.741725 -73.932261  402.0            26.0              199.0          
+105  40.748483 -73.949282  402.0            26.0              19.0           
+108  40.748206 -73.949701  402.0            26.0              7.0            
+111  40.740233 -73.935968  402.0            26.0              199.0          
+121  40.739918 -73.947213  402.0            26.0              1.0            
+122  40.739918 -73.947213  402.0            26.0              1.0            
+123  40.752096 -73.925887  401.0            26.0              171.0          
+126  40.750081 -73.944744  402.0            26.0              19.0           
+128  40.740189 -73.935824  402.0            26.0              199.0          
+129  40.752096 -73.925887  401.0            26.0              171.0          
+136  40.743168 -73.936568  402.0            26.0              199.0          
+144  40.721144 -73.919543  405.0            30.0              219.0          
+147  40.752096 -73.925887  401.0            26.0              171.0          
+150  40.740775 -73.932182  402.0            26.0              199.0          
+151  40.750848 -73.948587  402.0            26.0              19.0           
+152  40.751745 -73.945800  402.0            26.0              19.0           
+155  40.740811 -73.944214  402.0            26.0              1.0            
+164  40.739456 -73.934086  402.0            26.0              199.0          
+171  40.745615 -73.929583  402.0            26.0              179.0          
+173  40.746311 -73.933112  402.0            26.0              179.0          
+176  40.752423 -73.946326  402.0            26.0              19.0           
+180  40.743117 -73.956074  402.0            26.0              7.0            
+182  40.746370 -73.929441  402.0            26.0              179.0          
+184  40.738818 -73.932704  402.0            26.0              199.0          
+190  40.750979 -73.946342  402.0            26.0              19.0           
+193  40.740573 -73.930443  402.0            26.0              189.0          
+196  40.748152 -73.952259  402.0            26.0              7.0            
+197  40.742254 -73.932177  402.0            26.0              199.0          
+201  40.741404 -73.937497  402.0            26.0              199.0          
+220  40.741426 -73.937833  402.0            26.0              199.0          
+221  40.743060 -73.935652  402.0            26.0              199.0          
+233  40.750998 -73.950972  402.0            26.0              19.0           
+234  40.743168 -73.936568  402.0            26.0              199.0          
+239  40.751055 -73.943635  402.0            26.0              19.0           
+240  40.751055 -73.943635  402.0            26.0              19.0           
+242  40.749240 -73.949065  402.0            26.0              19.0           
+244  40.739490 -73.936500  402.0            26.0              199.0          
+248  40.743168 -73.936568  402.0            26.0              199.0          
+249  40.743168 -73.936568  402.0            26.0              199.0          
+250  40.748053 -73.951224  402.0            26.0              7.0            
+251  40.741017 -73.949742  402.0            26.0              7.0            
+258  40.743281 -73.937514  402.0            26.0              199.0          
+271  40.744454 -73.940140  402.0            26.0              1.0            
+272  40.748206 -73.943731  402.0            26.0              19.0           
+276  40.740383 -73.949562  402.0            26.0              1.0            
+278  40.745538 -73.949555  402.0            26.0              7.0            
+284  40.749987 -73.944311  402.0            26.0              19.0           
+
+           BIN           BBL                                   NTA  
+4    4003160.0  4.002220e+09  Hunters Point-Sunnyside-West Maspeth  
+9    4003447.0  4.002520e+09  Hunters Point-Sunnyside-West Maspeth  
+11   4436616.0  4.000560e+09  Hunters Point-Sunnyside-West Maspeth  
+23   4058877.0  4.025460e+09  Hunters Point-Sunnyside-West Maspeth  
+27   4000411.0  4.000500e+09  Hunters Point-Sunnyside-West Maspeth  
+29   4003446.0  4.002520e+09  Hunters Point-Sunnyside-West Maspeth  
+31   4003452.0  4.002540e+09  Hunters Point-Sunnyside-West Maspeth  
+37   4003103.0  4.002140e+09  Hunters Point-Sunnyside-West Maspeth  
+38   4311535.0  4.002510e+09  Hunters Point-Sunnyside-West Maspeth  
+41   4005191.0  4.004390e+09  Hunters Point-Sunnyside-West Maspeth  
+46   4005184.0  4.004380e+09  Hunters Point-Sunnyside-West Maspeth  
+51   4003447.0  4.002520e+09  Hunters Point-Sunnyside-West Maspeth  
+54   4000743.0  4.000990e+09  Hunters Point-Sunnyside-West Maspeth  
+56   4005071.0  4.004270e+09  Hunters Point-Sunnyside-West Maspeth  
+61   4003447.0  4.002520e+09  Hunters Point-Sunnyside-West Maspeth  
+62   4003103.0  4.002140e+09  Hunters Point-Sunnyside-West Maspeth  
+67   4003546.0  4.002870e+09  Hunters Point-Sunnyside-West Maspeth  
+69   4003446.0  4.002520e+09  Hunters Point-Sunnyside-West Maspeth  
+70   4000427.0  4.000510e+09  Hunters Point-Sunnyside-West Maspeth  
+71   4005157.0  4.004350e+09  Hunters Point-Sunnyside-West Maspeth  
+74   4005223.0  4.004460e+09  Hunters Point-Sunnyside-West Maspeth  
+77   4005233.0  4.004470e+09  Hunters Point-Sunnyside-West Maspeth  
+81   4052953.0  4.022860e+09  Hunters Point-Sunnyside-West Maspeth  
+84   4001325.0  4.001420e+09  Hunters Point-Sunnyside-West Maspeth  
+96   4000742.0  4.000980e+09  Hunters Point-Sunnyside-West Maspeth  
+99   4003455.0  4.002550e+09  Hunters Point-Sunnyside-West Maspeth  
+101  4058925.0  4.025730e+09  Hunters Point-Sunnyside-West Maspeth  
+102  4617933.0  4.000548e+09  Hunters Point-Sunnyside-West Maspeth  
+103  4311874.0  4.002510e+09  Hunters Point-Sunnyside-West Maspeth  
+105  4005232.0  4.004470e+09  Hunters Point-Sunnyside-West Maspeth  
+108  4000441.0  4.000520e+09  Hunters Point-Sunnyside-West Maspeth  
+111  4003554.0  4.002890e+09  Hunters Point-Sunnyside-West Maspeth  
+121  4436621.0  4.000680e+09  Hunters Point-Sunnyside-West Maspeth  
+122  4436621.0  4.000680e+09  Hunters Point-Sunnyside-West Maspeth  
+123  4003103.0  4.002140e+09  Hunters Point-Sunnyside-West Maspeth  
+126  4005194.0  4.004400e+09  Hunters Point-Sunnyside-West Maspeth  
+128  4314365.0  4.002890e+09  Hunters Point-Sunnyside-West Maspeth  
+129  4003103.0  4.002140e+09  Hunters Point-Sunnyside-West Maspeth  
+136  4003540.0  4.002820e+09  Hunters Point-Sunnyside-West Maspeth  
+144  4462230.0  4.026030e+09  Hunters Point-Sunnyside-West Maspeth  
+147  4003103.0  4.002140e+09  Hunters Point-Sunnyside-West Maspeth  
+150  4003456.0  4.002550e+09  Hunters Point-Sunnyside-West Maspeth  
+151  4005214.0  4.004450e+09  Hunters Point-Sunnyside-West Maspeth  
+152  4005277.0  4.004580e+09  Hunters Point-Sunnyside-West Maspeth  
+155  4000767.0  4.001100e+09  Hunters Point-Sunnyside-West Maspeth  
+164  4003468.0  4.002590e+09  Hunters Point-Sunnyside-West Maspeth  
+171  4003159.0  4.002220e+09  Hunters Point-Sunnyside-West Maspeth  
+173  4003434.0  4.002450e+09  Hunters Point-Sunnyside-West Maspeth  
+176  4005289.0  4.004590e+09  Hunters Point-Sunnyside-West Maspeth  
+180  4000128.0  4.000320e+09  Hunters Point-Sunnyside-West Maspeth  
+182  4003135.0  4.002180e+09  Hunters Point-Sunnyside-West Maspeth  
+184  4003453.0  4.002550e+09  Hunters Point-Sunnyside-West Maspeth  
+190  4436811.0  4.004420e+09  Hunters Point-Sunnyside-West Maspeth  
+193  4003400.0  4.002370e+09  Hunters Point-Sunnyside-West Maspeth  
+196  4441057.0  4.000500e+09  Hunters Point-Sunnyside-West Maspeth  
+197  4003447.0  4.002520e+09  Hunters Point-Sunnyside-West Maspeth  
+201  4436700.0  4.002830e+09  Hunters Point-Sunnyside-West Maspeth  
+220  4003546.0  4.002870e+09  Hunters Point-Sunnyside-West Maspeth  
+221  4003539.0  4.002810e+09  Hunters Point-Sunnyside-West Maspeth  
+233  4005254.0  4.004540e+09  Hunters Point-Sunnyside-West Maspeth  
+234  4003540.0  4.002820e+09  Hunters Point-Sunnyside-West Maspeth  
+239  4005076.0  4.004270e+09  Hunters Point-Sunnyside-West Maspeth  
+240  4005076.0  4.004270e+09  Hunters Point-Sunnyside-West Maspeth  
+242  4005225.0  4.004460e+09  Hunters Point-Sunnyside-West Maspeth  
+244  4003553.0  4.002890e+09  Hunters Point-Sunnyside-West Maspeth  
+248  4003540.0  4.002820e+09  Hunters Point-Sunnyside-West Maspeth  
+249  4003540.0  4.002820e+09  Hunters Point-Sunnyside-West Maspeth  
+250  4000411.0  4.000500e+09  Hunters Point-Sunnyside-West Maspeth  
+251  4000210.0  4.000390e+09  Hunters Point-Sunnyside-West Maspeth  
+258  4436702.0  4.002830e+09  Hunters Point-Sunnyside-West Maspeth  
+271  4003513.0  4.002710e+09  Hunters Point-Sunnyside-West Maspeth  
+272  4005157.0  4.004350e+09  Hunters Point-Sunnyside-West Maspeth  
+276  4000531.0  4.000690e+09  Hunters Point-Sunnyside-West Maspeth  
+278 NaN        NaN            Hunters Point-Sunnyside-West Maspeth  
+284  4005067.0  4.004260e+09  Hunters Point-Sunnyside-West Maspeth  "
+"                           Company Name    company contact  \
+17   ADP OAK POINT LLC                   Peter Latta         
+32   ANHEUSER BUSH                       ED FITZMAURICE      
+39   BACO ENTERPRISES, INC.              BARRY COHEN         
+40   BALDOR SPECIALTY FOOD               Eileen Manitsas     
+83   DAIRYLAND USA CORP.                 Ken Clark           
+95   DOWN EAST & SEAFOOD, INC.           Michael Jacobs      
+137  HEINSEN PRODUCTS, INC.              OSCAR HEINSEN       
+160  JUST BAGELS/ NORDQUIST ENTERPRISES  Charles Contreras   
+175  M. SLAVIN & SONS, LTD.              MICHAEL JACOBS      
+181  MCINNIS USA INC.                    Kevin  Sears        
+205  OVEN ARTISANS,  INC.                Keith Cohen         
+262  THE LOBSTER PLACE, INC.             Ian MacGregor       
+290  WILD EDIBLES, INC.                  Richard Martin      
+
+                      company email company phone                Address  \
+17   platta@aduiepyle.com            6103503006    500 Oak Point  Avenue   
+32   steve.hunter@anhuser-busch.com  7183495805    500 Food Center Drive   
+39   eric@blindbuildersusa.com       7185896225    1190 LONGWOOD AVENUE    
+40   eileen@baldorfood.com           7183044507    155 Food Center Drive   
+83   kclark@chefswarehouse.com       7188428700    240 FOOD CENTER DRIVE   
+95   mike1downeast@hotmail.com       3475908007    311 Manida Street       
+137  oscar@heinsenproducts.com       7183780290    312 CASANOVA STREET     
+160  charlii@justbagels.com          7183289700    527 CASANOVA STREET     
+175  NaN                             2122334522    800 FOOD CENTER DRIVE   
+181  kevin.sears@cmcinnis.com        9022337480    50 Oak Point Ave        
+205  keith@orwashers.com             7186187438    1187-1195 E 156th St    
+262  ianm@lobsterplace.com           7183282691    531-533 Bryant Avenue   
+290  richm@wildedibles.com           7188601000    740 Barry Street        
+
+      City State  Postcode                          Industry  \
+17   Bronx  NY    10474     Commercial                         
+32   Bronx  NY    10456     Wholesale/Warehouse/Distribution   
+39   BRONX  NY    10474     Manufacturing                      
+40   Bronx  NY    10474     Wholesale/Warehouse/Distribution   
+83   Bronx  NY    10474     Wholesale/Warehouse/Distribution   
+95   Bronx  NY    10474     Manufacturing                      
+137  BRONX  NY    10474     Manufacturing                      
+160  Bronx  NY    10474     Manufacturing                      
+175  Bronx  NY    10474     Wholesale/Warehouse/Distribution   
+181  Bronx  NY    10474     Manufacturing                      
+205  Bronx  NY    10474     Manufacturing                      
+262  Bronx  NY    10474     Wholesale/Warehouse/Distribution   
+290  Bronx  NY    10474     Wholesale/Warehouse/Distribution   
+
+                                       Industry descr Company Type  \
+17   NaN                                               ECSP          
+32   Dist. of beers and ales                           ECSP          
+39   MFG. STEEL PRODUCTS                               ECSP          
+40   DST OF FRUITS & VEGGIES                           ECSP          
+83   WHLS. FOOD DIST. AND MFG.                         ECSP          
+95   Distributor of seafood                            ECSP          
+137  Sausage products                                  ECSP          
+160  MGF BAGELS & RELATED PRDT                         ECSP          
+175  DIST. VARIOUS SEAFOODS                            ECSP          
+181  Cement Depot                                      ECSP          
+205  Commercial Bakery                                 ECSP          
+262  mfg & wholesale seafood                           ECSP          
+290  Fresh & frozen seafoodpreparation and processing  ECSP          
+
+     Current fulltime  Job created  Job retain Effective Date  Total Savings  \
+17   0.0              NaN          NaN          03/06/2018     23372.88        
+32   294.0            NaN          NaN          07/06/2009     44334.30        
+39   106.0            NaN          NaN          12/04/2019     6425.63         
+40   579.0            NaN          NaN          12/03/2008     132446.92       
+83   30.0              12.0         30.0        02/03/2005     181579.24       
+95   36.0             NaN          NaN          06/03/2008     3218.34         
+137  14.0             NaN          NaN          02/04/2008     1766.70         
+160  65.0             NaN          NaN          01/05/2009     13038.55        
+175  159.0            NaN          NaN          06/03/2008     2235.37         
+181  8.0              NaN          NaN          10/02/2019     30769.92        
+205  32.0             NaN          NaN          02/04/2013     19822.31        
+262  72.0             NaN          NaN          07/06/2015     36186.05        
+290  28.0             NaN          NaN          10/31/2017     15002.00        
+
+     Savings from beginning receiving benefits Borough   Latitude  Longitude  \
+17   71277.45                                   Bronx   40.809010 -73.894096   
+32   861679.67                                  Bronx   40.805781 -73.871164   
+39   10434.16                                   Bronx   40.813344 -73.891232   
+40   1776963.94                                 Bronx   40.809733 -73.872648   
+83   1132936.57                                 Bronx   40.810305 -73.873691   
+95   149710.93                                  Bronx   40.806967 -73.886435   
+137  122136.06                                  Bronx   40.806719 -73.888274   
+160  432328.84                                  Bronx   40.810408 -73.889254   
+175  201545.35                                  Bronx   40.805255 -73.876414   
+181  71460.24                                   Bronx   40.808926 -73.894660   
+205  131028.20                                  Bronx   40.812578 -73.892928   
+262  157569.67                                  Bronx   40.811156 -73.884650   
+290  50189.76                                   Bronx   40.812618 -73.894712   
+
+     Community Board  Council District  Census Tract        BIN           BBL  \
+17   202.0            17.0              93.0          2128941.0  2.026060e+09   
+32   202.0            17.0              117.0        NaN        NaN             
+39   202.0            17.0              93.0          2006590.0  2.027650e+09   
+40   202.0            17.0              117.0         2101319.0  2.027810e+09   
+83   202.0            17.0              117.0         2127434.0  2.027700e+09   
+95   202.0            17.0              93.0          2006949.0  2.027740e+09   
+137  202.0            17.0              93.0          2087656.0  2.027740e+09   
+160  202.0            17.0              93.0          2006785.0  2.027680e+09   
+175  202.0            17.0              93.0          2088215.0  2.027800e+09   
+181  202.0            17.0              93.0          2127123.0  2.026040e+09   
+205  202.0            17.0              93.0          2005913.0  2.027360e+09   
+262  202.0            17.0              93.0          2096876.0  2.027690e+09   
+290  202.0            17.0              93.0          2005902.0  2.027360e+09   
+
+             NTA  
+17   Hunts Point  
+32   Hunts Point  
+39   Hunts Point  
+40   Hunts Point  
+83   Hunts Point  
+95   Hunts Point  
+137  Hunts Point  
+160  Hunts Point  
+175  Hunts Point  
+181  Hunts Point  
+205  Hunts Point  
+262  Hunts Point  
+290  Hunts Point  "
+"                                    Company Name    company contact  \
+20   AFRICAN SERVICES COMMITTEE, INC.             Muna Hamouie        
+21   AIDS VACCINE ADVOCACY COALITION              Marie Semmelbeck    
+97   DUCE CONSTRUCTION CORP.                      Vejai Dadydeen      
+127  GRAHAM WINDHAM ORGANIZATION                  Francis XSpain      
+154  JANUS MANAGEMENT, INC.                       Ben Weissbourd      
+192  NEIGHBORHOOD EIGTH AVENUE LLC                Novak Vukasinovic   
+246  SOHARLEM  INC.                               Janet Rodriguez     
+260  THE GLUCK ARCHITECTURAL COLLABORATIVE, P.C.  Peter Gluck         
+285  WHBI LLC                                     Samuel Sia          
+
+                   company email company phone                     Address  \
+20   munah@africanservices.com    2122223882    423-429 W 127th Street       
+21   marie@avac.org               6463691476    423-429 W 127th Street       
+97   vejai@ducecc.com             2123162400    412 West 127th Street        
+127  BonillaC@graham-windham.org  2125296445    423-429 West 127th Street    
+154  ben@janusproperty.com        2129322388    1361 AMSTERDAM AVENUE        
+192  novak@jansproperty.com       2129322388    423-429 W 127th Street       
+246  janet@soharlem.org           2122222792    1361 Amsterdam Avenue        
+260  bgarland@gluckplus.com       2126904950    423-429 W 127th St, 6th Fl   
+285  ss@harlembiospace.com        2129322388    423-427 West 127th Street    
+
+         City State  Postcode                          Industry  \
+20   New YOrk  NY    10027     Commercial                         
+21   New York  NY    10027     Commercial                         
+97   New York  NY    10027     Commercial                         
+127  New York  NY    10027     Wholesale/Warehouse/Distribution   
+154  New York  NY    10027     Other                              
+192  New York  NY    10103     Commercial                         
+246  New York  NY    10027     Manufacturing                      
+260  New York  NY    10027     Commercial                         
+285  New York  NY    10027     Commercial                         
+
+                                                                            Industry descr  \
+20   Provider of Social Services                                                             
+21   Provides information, education and advocacy for HIV /AIDS prevention.                  
+97   Construction Management                                                                 
+127  NaN                                                                                     
+154  LANDLORD                                                                                
+192  Real Estate                                                                             
+246  Cultural Industry Incubator to assist creative entrepreneurs launch micro-enterprises   
+260  Architectural serices, consturction management                                          
+285  Biomedical research facility                                                            
+
+    Company Type  Current fulltime  Job created  Job retain Effective Date  \
+20   ECSP         32.0             NaN          NaN          12/09/2011      
+21   ECSP         13.0             NaN          NaN          11/07/2011      
+97   ECSP         31.0             NaN          NaN          06/10/2013      
+127  ECSP         24.0             NaN          NaN          10/09/2012      
+154  ECSP         2.0              NaN           4.0         01/09/2009      
+192  ECSP         4.0              NaN          NaN          06/09/2011      
+246  ECSP         1.0              NaN          NaN          07/10/2019      
+260  ECSP         8.0              NaN          NaN          09/08/2011      
+285  ECSP         2.0              NaN          NaN          11/06/2014      
+
+     Total Savings  Savings from beginning receiving benefits   Borough  \
+20   2508.11        18387.23                                   New York   
+21   1467.64        13929.45                                   New York   
+97   1287.07        13045.32                                   New York   
+127  3738.54        31505.67                                   New York   
+154  1552.31        29542.71                                   New York   
+192  3309.86        34210.27                                   New York   
+246  5301.47        9564.97                                    New York   
+260  3080.01        31752.35                                   New York   
+285  2602.99        16337.33                                   New York   
+
+      Latitude  Longitude  Community Board  Council District  Census Tract  \
+20   40.812964 -73.953759  109.0            7.0               21303.0        
+21   40.812964 -73.953759  109.0            7.0               21303.0        
+97   40.812887 -73.953622  109.0            7.0               21303.0        
+127  40.812964 -73.953759  109.0            7.0               21303.0        
+154  40.814216 -73.955640  109.0            7.0               21303.0        
+192  40.812964 -73.953759  109.0            7.0               21303.0        
+246  40.814216 -73.955640  109.0            7.0               21303.0        
+260  40.812964 -73.953759  109.0            7.0               21303.0        
+285  40.812964 -73.953759  109.0            7.0               21303.0        
+
+           BIN           BBL             NTA  
+20   1084105.0  1.019670e+09  Manhattanville  
+21   1084105.0  1.019670e+09  Manhattanville  
+97   1081778.0  1.019670e+09  Manhattanville  
+127  1084105.0  1.019670e+09  Manhattanville  
+154  1081781.0  1.019670e+09  Manhattanville  
+192  1084105.0  1.019670e+09  Manhattanville  
+246  1081781.0  1.019670e+09  Manhattanville  
+260  1084105.0  1.019670e+09  Manhattanville  
+285  1084105.0  1.019670e+09  Manhattanville  "
+"                                  Company Name      company contact  \
+35   ARISTA COFFEE, INC.                        Stephen Vouvoudakis   
+98   DURA FOAM, INC.                            ANTHONY FONTANA       
+117  FIRST UNITED DISTRIBUTION CORP.            Ismeta Durkovic       
+139  HI TECH METALS, INC.                       Jay Valentino         
+172  LIDA COLLECTION, INC.                      Jeff Xia              
+188  MUSIC ARHIVE COLLECTION LLC FLOOR 2 AND 3  Dawn Deleone          
+198  NEW YORK INSULATION, INC.                  Anthony Cardinale     
+223  RAREFORM CARTING, INC.                     Teresa Gerrity        
+256  T & Z PROPERTIES LLC                       Tina Kurek            
+
+              company email company phone             Address     City State  \
+35   tom@aristacoffee.com    3474086012    59-01 55th Street   Maspeth  NY     
+98   ldyjewles@yahoo.com     7188481216    63-02 59TH AVENUE   Queens   NY     
+117  ismetaksdc@gmail.com    7183261219    58-38 59th Street   Queens   NY     
+139  justyjay47@alo.com      7188941212    59-20 56th Avenue   Maspeth  NY     
+172  Lidausa88@gmail.com     3406446608    58-86 Grand Avenue  Maspeth  NY     
+188  DawnDeleon@hotmail.com  6463161057    58-86 Grand Avenue  Maspeth  NY     
+198  nyinsulate@aol.com      7183260125    58-48 59th Street   Maspeth  NY     
+223  grandproperty1@aol.com  7182055188    58-38 59th Street   Queens   NY     
+256  2klandmark@aol.com      5167467305    54-21 73rd Place    Maspeth  NY     
+
+     Postcode                          Industry  \
+35   11318     Commercial                         
+98   11378     Manufacturing                      
+117  11378     Wholesale/Warehouse/Distribution   
+139  11378     Manufacturing                      
+172  11378     Wholesale/Warehouse/Distribution   
+188  11378     Wholesale/Warehouse/Distribution   
+198  11378     Commercial                         
+223  11378     Commercial                         
+256  11378     Commercial                         
+
+                                      Industry descr Company Type  \
+35   Company is a roaster of coffee beans             ECSP          
+98   MFG/FABR FOAM & CUSHIONS                         ECSP          
+117  Carrier Operation                                ECSP          
+139  Specializes custom architecual metal             ECSP          
+172  Warehouse/wholesale Importer of women clothing   ECSP          
+188  Storage Facility                                 ECSP          
+198  Building material and supplies                   ECSP          
+223  Garbage container service and building landlord  ECSP          
+256  Real Estate Co.                                  ECSP          
+
+     Current fulltime  Job created  Job retain Effective Date  Total Savings  \
+35   40.0             NaN          NaN          10/28/2016     12209.80        
+98   14.0              10.0         14.0        03/01/2006     52.33           
+117  2.0              NaN          NaN          10/16/2015     3379.82         
+139  114.0            NaN          NaN          07/17/2019     26085.73        
+172  3.0              NaN          NaN          10/15/2015     301.71          
+188  1.0              NaN          NaN          08/15/2018     6102.79         
+198  13.0             NaN          NaN          05/17/2011     5226.51         
+223  4.0              NaN          NaN          02/16/2012     3389.47         
+256  14.0             NaN          NaN          08/15/2018     3176.39         
+
+     Savings from beginning receiving benefits Borough   Latitude  Longitude  \
+35   41763.52                                   Queens  40.716759 -73.913146   
+98   323.11                                     Queens  40.719695 -73.901421   
+117  13603.31                                   Queens  40.719945 -73.908282   
+139  48294.64                                   Queens  40.725308 -73.907795   
+172  2179.54                                    Queens  40.720275 -73.908942   
+188  8660.95                                    Queens  40.720275 -73.908942   
+198  44761.24                                   Queens  40.719591 -73.908261   
+223  19652.38                                   Queens  40.719945 -73.908282   
+256  7809.89                                    Queens  40.729191 -73.888992   
+
+     Community Board  Council District  Census Tract        BIN           BBL  \
+35   405.0            30.0              535.0         4059082.0  4.026300e+09   
+98   405.0            30.0              521.0         4437578.0  4.027550e+09   
+117  405.0            30.0              525.0         4539678.0  4.026810e+09   
+139  405.0            30.0              531.0         4059963.0  4.026890e+09   
+172  405.0            30.0              525.0         4540084.0  4.026810e+09   
+188  405.0            30.0              525.0         4540084.0  4.026810e+09   
+198  405.0            30.0              525.0         4539687.0  4.026810e+09   
+223  405.0            30.0              525.0         4539678.0  4.026810e+09   
+256  405.0            30.0              49302.0       4062880.0  4.028030e+09   
+
+         NTA  
+35   Maspeth  
+98   Maspeth  
+117  Maspeth  
+139  Maspeth  
+172  Maspeth  
+188  Maspeth  
+198  Maspeth  
+223  Maspeth  
+256  Maspeth  "
+"                            Company Name     company contact  \
+34   APTHORP CLEANERS, INC.               Debra Kravet         
+59   BROOKLYN WHOLESALE BAKERY LLC        Seth Zalkin          
+63   CARNEGIE LINEN SERVICES, INC.        ERIC SCHWEITZER      
+89   DEEP DRAW SILVER, INC.               David Haber          
+110  FAIRWAY BAKERY LLC                   Dennis Tortora       
+118  FOODFEST DEPOT LLC                   Michael Tyras        
+142  HIRD/BLAKER, INC.                    Cliff Blaker         
+206  PAPER ENTERPRISES, INC.              Herb Sedler          
+217  POOK DIEMONT & OHL, INC.             Ted Ohl              
+229  RUGUS REALTY, INC. DBA MISS GRIMBLE  Errol Bier           
+238  SILVER HILL ATELIER, LLC             Norvel Hermanovski   
+245  SKYLINE WINDOWS, LLC                 Steven Kraus         
+259  THE BRONX BREWERY LLC                Damian Brown         
+281  WALDORF BAKERY, INC. DBA MAURICE     CRAIG BIER           
+
+                        company email company phone                 Address  \
+34   apthorpcleaners@gmail.com         7188661240    882 EAST 149TH STREET    
+59   zalkin@brooklynbrands.com         2126331399    828 East 144th Street    
+63   ericschweitzer@carnegielinen.com  7184022499    874 EAST 139TH STREET    
+89   david@habersilver.com             7189936405    820 E. 141st Street      
+110  dennis.tortora@fairwaymarket.com  9177348111    400 Walnut Avenue        
+118  mtyras@foodfestdepot.com          7183781122    550 E. 132nd Street      
+142  cblaker@millerblaker.com          7186650500    620 EAST 132ND STREET    
+206  info@paperenterprises.com         718-402-12    720-750 East 132nd St.   
+217  info@pdoinc.com                   7184022677    704 East 133rd Street    
+229  errol@missgrimble.com             7186652253    909 EAST 135TH STREET    
+238  norvel@silverhillarts.com         7185851691    250 East 139th Street    
+245  ekraus@skylinewindows.com         2123913000    220 E 138th Street       
+259  damian@thebronxbrewery.com        7185149000    856 E. 136th Street      
+281  mrdessert@gmail.com               7186652496    909 EAST 135TH STREET    
+
+            City State  Postcode                          Industry  \
+34   BRONX        NY    10455     Commercial                         
+59   Bronx        NY    10454     Wholesale/Warehouse/Distribution   
+63   Bronx        NY    10454     Commercial                         
+89   Bronx,       NY    10454     Manufacturing                      
+110  Bronx        NY    10454     Manufacturing                      
+118  Bronx        NY    11545     Wholesale/Warehouse/Distribution   
+142  Bronx        NY    10454     Manufacturing                      
+206  Bronx        NY    10454     Wholesale/Warehouse/Distribution   
+217  PORT MORRIS  NY    10454     Manufacturing                      
+229  Bronx        NY    10454     Manufacturing                      
+238  Bronx        NY    10451     Manufacturing                      
+245  Bronx        NY    10451     Manufacturing                      
+259  Bronx        NY    10454     Manufacturing                      
+281  bronx        NY    10454     Manufacturing                      
+
+                                                 Industry descr Company Type  \
+34   Dry cleaner for drop stores                                 ECSP          
+59   Commercial bakery                                           ECSP          
+63   COMMERCIAL                                                  ECSP          
+89   Mfg. of silver plating                                      ECSP          
+110  Baked goods and fresh produce preparation and distributing  ECSP          
+118  Distibutor of meats and groceries to restaurants and delis  ECSP          
+142  Architectural woodworking                                   ECSP          
+206  Paper, plastic, janitorial, manintenance                    ECSP          
+217  MFG. (THEATRE SETS)                                         ECSP          
+229  LANDLORD/WHOLSALE                                           ECSP          
+238  Custon artwork for hotels, restaurants and casinos          ECSP          
+245  Manufacturer of windows                                     ECSP          
+259  Beer Manufacturer                                           ECSP          
+281  WHOLESALE                                                   ECSP          
+
+     Current fulltime  Job created  Job retain Effective Date  Total Savings  \
+34   21.0             NaN          NaN          12/03/2007     2297.44         
+59   252.0            NaN          NaN          02/08/2018     50745.61        
+63   20.0              5.0          20.0        11/06/2007     3057.76         
+89   45.0             NaN          NaN          07/10/2009     968.86          
+110  70.0             NaN          NaN          11/06/2014     82103.25        
+118  16.0             NaN          NaN          08/11/2014     58899.75        
+142  52.0             NaN          NaN          02/10/2010     24613.09        
+206  105.0            NaN          NaN          07/10/2007     341.93          
+217  35.0             NaN          NaN          02/10/2009     657.58          
+229  5.0               2.0          5.0         04/10/2007     1.85            
+238  8.0              NaN          NaN          10/12/2010     1374.77         
+245  275.0            NaN          NaN          01/12/2012     9962.93         
+259  68.0             NaN          NaN          08/08/2017     14771.61        
+281  6.0               3.0          6.0         06/08/2007     18.70           
+
+     Savings from beginning receiving benefits Borough   Latitude  Longitude  \
+34   96501.05                                   Bronx   40.810970 -73.903312   
+59   108176.80                                  Bronx   40.808975 -73.907159   
+63   202990.89                                  Bronx   40.803371 -73.907629   
+89   100253.68                                  Bronx   40.805545 -73.908265   
+110  627100.72                                  Bronx   40.805184 -73.906015   
+118  348702.62                                  Bronx   40.803285 -73.921174   
+142  329539.83                                  Bronx   40.802366 -73.918986   
+206  202145.41                                  Bronx   40.800898 -73.915510   
+217  16259.18                                   Bronx   40.801741 -73.915484   
+229  21780.28                                   Bronx   40.800542 -73.909345   
+238  13937.04                                   Bronx   40.811967 -73.927060   
+245  111828.42                                  Bronx   40.812078 -73.928609   
+259  45728.24                                   Bronx   40.801987 -73.910315   
+281  13734.02                                   Bronx   40.800542 -73.909345   
+
+     Community Board  Council District  Census Tract        BIN           BBL  \
+34   201.0            8.0               31.0          2004102.0  2.026000e+09   
+59   201.0            8.0               31.0          2097197.0  2.025990e+09   
+63   201.0            17.0              19.0          2004038.0  2.025980e+09   
+89   201.0            17.0              19.0          2004023.0  2.025920e+09   
+110  201.0            17.0              19.0          2004053.0  2.025990e+09   
+118  201.0            8.0               19.0         NaN        NaN             
+142  201.0            8.0               19.0          2117310.0  2.025430e+09   
+206  201.0            17.0              19.0          2003581.0  2.025430e+09   
+217  201.0            17.0              19.0          2092867.0  2.025610e+09   
+229  201.0            17.0              19.0          2094136.0  2.025940e+09   
+238  201.0            8.0               51.0          2097046.0  2.023330e+09   
+245  201.0            8.0               51.0          2097047.0  2.023220e+09   
+259  201.0            17.0              19.0          2003992.0  2.025870e+09   
+281  201.0            17.0              19.0          2094136.0  2.025940e+09   
+
+                        NTA  
+34   Mott Haven-Port Morris  
+59   Mott Haven-Port Morris  
+63   Mott Haven-Port Morris  
+89   Mott Haven-Port Morris  
+110  Mott Haven-Port Morris  
+118  Mott Haven-Port Morris  
+142  Mott Haven-Port Morris  
+206  Mott Haven-Port Morris  
+217  Mott Haven-Port Morris  
+229  Mott Haven-Port Morris  
+238  Mott Haven-Port Morris  
+245  Mott Haven-Port Morris  
+259  Mott Haven-Port Morris  
+281  Mott Haven-Port Morris  "
+"                          Company Name    company contact  \
+28   AMERICAN BRIDGE COMPANY            Kwadwo Osi-Akoto    
+73   COMPUTER SERVICES GROUP, INC.      Boris Khutoretsky   
+93   DI DOMENICO & PARTNERS LLP         Andrew Berger       
+100  E. J. YORK, INC.                   Doel Rivera         
+104  EDISON PRICE, INC.                 EMMA PRICE          
+106  EMPRESS MEDIA, INC.                David Miller        
+107  ESTEE LAUDER COMPANIES, INC        Henry Goodfriend    
+156  JETBLUE AIRWAYS, CORP.             Dave Barger         
+157  JETBLUE AIRWAYS, CORP.             Dave Barger         
+161  KARR GRAPHICS CORP.                Lawrence Karr       
+194  NEW HEYDENRYK, LLC                 David Mandel        
+199  NEW YORKER WHOLESALE BAGELS, INC.  GEORGE MENEGATOS    
+208  PARSONS-MEARES LTD.                Vicki Lamb          
+210  PELICAN BAY LTD.                   Michael Nasoff      
+224  RDS DELIVERY SERVICES, CO., INC.   David Zogby         
+232  SAFE ART SAT, INC.                 Clive  Green        
+
+                     company email company phone  \
+28   Amarkarian@americanbridge.net  5107742198     
+73   borisk@csgny.com               2128190122     
+93   aberger@ddp-ny.com             2123770400     
+100  Doel@ejork.com                 2122557606     
+104  eprice@epl.com                 7186850701     
+106  dmiller@empressmam.com         2126434898     
+107  hgoodfri@estee.com             9149600408     
+156  Dave.Barger.@Jetblue.com       718-286-79     
+157  Dave.Barger.@Jetblue.com       718-286-79     
+161  Lkarr@karrgraphics.com         2126456000     
+194  dmandel@heydenryk.com          2122069611     
+199  sevangelinos@gmail.com         2124770448     
+208  vicki@parsons-meares.com       2129671663     
+210  michael@raviolistore.com       7187299300     
+224  david@rdsdelivery.com          2122601348     
+232  clive@safeart.com              7183928910     
+
+                          Address              City State  Postcode  \
+28   21-07 41st Avenue             Lond Island City  NY    11101      
+73   37-24 24th Street, Suite 340  Long Island City  NY    11101      
+93   38-17 CRESCENT STREET         LONG ISLAND CITY  NY    11101      
+100  34-16 11th Street             Queens            NY    10018      
+104  41-10 22 St.                  Queens            NY    11101      
+106  39-20 24th St, 2nd Fl         Queens            NY    11101      
+107  27-01 Queens Plaza North      Queens            NY    11101      
+156  27-01 Bridge Plaza North      Long Island City  NY    11101      
+157  27-01 Bridge Plaza North      Long Island City  NY    11101      
+161  22-19 41st Avenue             Long Island City  NY    11101      
+194  37-27 10th Street, 1st Fl     Queens            NY    11101      
+199  34-20 12th St.                Long Island City  NY    11101      
+208  21-07 41st Avenue             Long Island City  NY    11101      
+210  39-22 23rd Street             Long Island City  NY    11101      
+224  37-41 Vernon Blvd.            Lond Island City  NY    11101      
+232  13-06 38th Avenue             Long Island City  NY    11101      
+
+                             Industry  \
+28   Commercial                         
+73   Manufacturing                      
+93   Commercial                         
+100  Commercial                         
+104  Manufacturing                      
+106  Manufacturing                      
+107  Manufacturing                      
+156  Other                              
+157  Other                              
+161  Commercial                         
+194  Manufacturing                      
+199  Manufacturing                      
+208  Manufacturing                      
+210  Manufacturing                      
+224  Wholesale/Warehouse/Distribution   
+232  Wholesale/Warehouse/Distribution   
+
+                                                   Industry descr  \
+28   Engineering construction for bridges                           
+73   Provides IT solutions to businesses                            
+93   Architectural firm applyig for back office operation           
+100  Lanlord                                                        
+104  MFG. OF LIGHTING EQUIPMENT LAND AND BUILDING AND IMPROVEMENT   
+106  computer software & design                                     
+107  toiletries, perfume, makeup, skin care                         
+156  Back Office                                                    
+157  Back Office                                                    
+161  Commercial Printer                                             
+194  Picture frame                                                  
+199  Commercial baker                                               
+208  Theatrical customes                                            
+210  Manufacturer of pasta                                          
+224  Delivery Service                                               
+232  fine art to museum                                             
+
+    Company Type  Current fulltime  Job created  Job retain Effective Date  \
+28   ECSP         15.0             NaN          NaN          06/04/2019      
+73   ECSP         20.0             NaN          NaN          09/01/2016      
+93   ECSP         31.0             NaN          NaN          09/02/2008      
+100  ECSP         10.0             NaN          NaN          04/03/2020      
+104  ECSP         150.0            NaN          NaN          12/04/2012      
+106  ECSP         15.0             NaN          NaN          12/04/2018      
+107  ECSP         179.0            NaN          NaN          07/03/2019      
+156  ECSP         3878.0           NaN          NaN          12/04/2013      
+157  ECSP         880.0            NaN          NaN          06/04/2013      
+161  ECSP         18.0             NaN          NaN          07/02/2008      
+194  ECSP         7.0              NaN          NaN          06/04/2019      
+199  ECSP         29.0             NaN          NaN          06/29/2013      
+208  ECSP         40.0             NaN          NaN          07/06/2015      
+210  ECSP         11.0             NaN          NaN          10/02/2012      
+224  ECSP         123.0            NaN          NaN          03/06/2019      
+232  ECSP         28.0             NaN          NaN          08/10/2009      
+
+     Total Savings  Savings from beginning receiving benefits Borough  \
+28   11592.42       12463.99                                   Queens   
+73   1698.03        5710.21                                    Queens   
+93   1728.30        47366.44                                   Queens   
+100  372.55         372.55                                     Queens   
+104  34384.89       271227.06                                  Queens   
+106  8651.48        12719.64                                   Queens   
+107  20959.99       20959.99                                   Queens   
+156  759480.44      5502522.03                                 Queens   
+157  57634.59       592457.59                                  Queens   
+161  1609.00        78489.00                                   Queens   
+194  3137.03        6590.95                                    Queens   
+199  57647.36       386477.29                                  Queens   
+208  9977.77        51306.96                                   Queens   
+210  10360.79       70802.51                                   Queens   
+224  5919.95        6467.21                                    Queens   
+232  4137.74        89245.22                                   Queens   
+
+      Latitude  Longitude  Community Board  Council District  Census Tract  \
+28   40.753900 -73.942228  401.0            26.0              33.0           
+73   40.757018 -73.935833  401.0            26.0              33.0           
+93   40.755514 -73.936048  401.0            26.0              31.0           
+100  40.764150 -73.938097  401.0            26.0              85.0           
+104  40.753148 -73.941706  401.0            26.0              33.0           
+106  40.754795 -73.937896  401.0            26.0              33.0           
+107  40.750561 -73.939315  401.0            26.0              33.0           
+156  40.750561 -73.939315  401.0            26.0              33.0           
+157  40.750561 -73.939315  401.0            26.0              33.0           
+161  40.753348 -73.941179  401.0            26.0              33.0           
+194  40.759595 -73.941899  401.0            26.0              85.0           
+199  40.763540 -73.937444  401.0            26.0              85.0           
+208  40.753900 -73.942228  401.0            26.0              33.0           
+210  40.755177 -73.938658  401.0            26.0              33.0           
+224  40.760066 -73.943667  401.0            26.0              39.0           
+232  40.757755 -73.939886  401.0            26.0              85.0           
+
+           BIN           BBL                                       NTA  
+28   4004973.0  4.004100e+09  Queensbridge-Ravenswood-Long Island City  
+73   4439111.0  4.003660e+09  Queensbridge-Ravenswood-Long Island City  
+93   4004700.0  4.003870e+09  Queensbridge-Ravenswood-Long Island City  
+100  4003879.0  4.003250e+09  Queensbridge-Ravenswood-Long Island City  
+104  4004977.0  4.004110e+09  Queensbridge-Ravenswood-Long Island City  
+106  4314376.0  4.003940e+09  Queensbridge-Ravenswood-Long Island City  
+107  4005016.0  4.004160e+09  Queensbridge-Ravenswood-Long Island City  
+156  4005016.0  4.004160e+09  Queensbridge-Ravenswood-Long Island City  
+157  4005016.0  4.004160e+09  Queensbridge-Ravenswood-Long Island City  
+161  4004951.0  4.004090e+09  Queensbridge-Ravenswood-Long Island City  
+194  4463923.0  4.003600e+09  Queensbridge-Ravenswood-Long Island City  
+199  4003896.0  4.003260e+09  Queensbridge-Ravenswood-Long Island City  
+208  4004973.0  4.004100e+09  Queensbridge-Ravenswood-Long Island City  
+210  4004749.0  4.003930e+09  Queensbridge-Ravenswood-Long Island City  
+224  4004352.0  4.003580e+09  Queensbridge-Ravenswood-Long Island City  
+232  4005326.0  4.004711e+09  Queensbridge-Ravenswood-Long Island City  "
+"                  Company Name            company contact  \
+10   4OVER4.COM                 Anastasio Panagiotopolous   
+14   A.K.S. INTERNATIONAL, INC  Tomislav nNgalo             
+90   DELVI REALTY CORP.         Walter Villacis             
+133  GUSTAV RESTORATION LLC     Karin Geiger-Hill           
+178  MARIC MECHANICAL INC.      Linda  Zahn                 
+282  WATER LILIES FOOD, INC.    Peter Lee                   
+287  WHITE COFFEE CORPORATION   Jonathan White              
+
+                     company email company phone                Address  \
+10   taso@4over4.com                7189322700    19-41 46th Street       
+14   tnogalo@aksinternational.com   332313        37-04 19th Avenue       
+90   villacisw@gmail.com            9174181083    18-48 Steinway Street   
+133  karingh@gustavrestoration.com  3478706114    19-60 45th Street       
+178  lzahn@maricmechanical.com      7187214690    19-53 46th Street       
+282  peterlee@waterliliesfood.com   7187778899    45-10 19TH AVENUE       
+287  jw@whitecoffee.com             7182047900    18-35 38th Street       
+
+                 City State  Postcode       Industry  \
+10   Long Island City  NY    11105     Manufacturing   
+14   Queens            NY    11105     Manufacturing   
+90   Astoria           NY    11105     Landlord        
+133  Queens            NY    11105     Manufacturing   
+178  Astoria           NY    11105     Manufacturing   
+282  Queens            NY    11105     Manufacturing   
+287  Queens            NY    11105     Manufacturing   
+
+                                                           Industry descr  \
+10   Printer                                                                
+14   metal contracting & fabricator of metal products                       
+90   SEP & engineering consultant svcs                                      
+133  construction fabrication, roofing, metal, skylights                    
+178  specializes in heating, air conditioning, ventilation, and plumbing.   
+282  MANUFACTURER                                                           
+287  Mfg specialty coffee/import & distribute coffee & teas                 
+
+    Company Type  Current fulltime  Job created  Job retain Effective Date  \
+10   ECSP         14.0             NaN          NaN          04/09/2008      
+14   ECSP         45.0             NaN          NaN          07/06/2015      
+90   ECSP         2.0              NaN          NaN          04/10/2018      
+133  ECSP         40.0             NaN          NaN          03/11/2016      
+178  ECSP         46.0             NaN          NaN          07/10/2015      
+282  ECSP         27.0              20.0         54.0        07/02/2007      
+287  ECSP         95.0             NaN          NaN          01/10/2011      
+
+     Total Savings  Savings from beginning receiving benefits Borough  \
+10   4922.25        184923.14                                  Queens   
+14   3629.27        20691.63                                   Queens   
+90   777.39         2127.39                                    Queens   
+133  5936.58        30010.37                                   Queens   
+178  10067.77       42054.83                                   Queens   
+282  2056.80        927036.80                                  Queens   
+287  51200.03       583542.01                                  Queens   
+
+      Latitude  Longitude  Community Board  Council District  Census Tract  \
+10   40.774940 -73.896804  401.0            22.0              12301.0        
+14   40.779184 -73.900755  401.0            22.0              12301.0        
+90   40.779245 -73.898267  401.0            22.0              12301.0        
+133  40.775199 -73.897862  401.0            22.0              12301.0        
+178  40.774784 -73.896996  401.0            22.0              12301.0        
+282  40.776128 -73.896413  401.0            22.0              12301.0        
+287  40.779751 -73.898971  401.0            22.0              12301.0        
+
+           BIN           BBL       NTA  
+10   4441806.0  4.007740e+09  Steinway  
+14   4436970.0  4.008120e+09  Steinway  
+90   4448619.0  4.008130e+09  Steinway  
+133  4015228.0  4.007880e+09  Steinway  
+178  4014852.0  4.007740e+09  Steinway  
+282  4014854.0  4.007750e+09  Steinway  
+287  4436972.0  4.008130e+09  Steinway  "
+"                                    Company Name       company contact  \
+1    1-10 BUSH TERMINAL OWNER LP                  Andrew Kimball         
+15   ABEL CINE TECH, INC.                         Rich Abel              
+16   ACCENTURE LLP                                Tracy Lesnau           
+18   AECOM TECHNICAL SERVICES INC                 Sarah Robinson         
+24   ALLIED SAMPLE CARDS CO., INC.                MARC TRAGER            
+26   ALLSTATE MEDICAL SUPPLIES LLC                Martin Weiss           
+33   APPROVED OIL CO. OF BROOKLYN, INC.           Vincent Theures        
+42   BARONE STEEL FABRICATORS, INC.               NICK BARONE            
+45   BENSON MILLS, INC.                           GABE LEVY              
+47   BEST CASE & ACCESSORIES, INC.                MURRAY DANA            
+49   BESTEC CONCEPT, INC.                         Peter Kim              
+55   BREUCKELEN DISTILLING CO., INC.              Bradford Estabrooke    
+57   BROOKLYN IMMUNO THERAPEUTICS LLC             Cheryl Rau             
+58   BROOKLYN NETS                                Jeffrey Gewirtz        
+65   CAVCO ROOFING, INC.                          Robert Cavallino       
+72   COMP TRADING LLC                             Michael Sasson         
+78   COTRONICS CORPORATION                        Renee Bernstein        
+79   CREPINI, LLC                                 Eric Shkolnik          
+80   CRYSTAL LAKE TRADING, INC.                   Peter Fung             
+85   DART MEDICAL LABORTORY, INC.                 Zina Korposh           
+91   DEPOSITORY TRUST COMPANY                     Devika khusial         
+109  E-Z INK, INC.                                Oleg Zoan              
+138  HI INTERIORS, INC.                           GREGORY MADZIO         
+146  I. AM. MALIA MILLS, LLC                      Carol Mills            
+148  IDL COMMUNICATIONS AND ELECTRIC, INC         Eva Rose Cupit         
+153  JACQUES TORRES MANUFACTURING LLC             Jacques  Torres        
+158  JEWELS FOR ME, INC.                          Thomas Izsak           
+163  KLEINS NATURALS LTD.                         Robert Morel           
+165  KOPELEVICH & FELDSHEROVA, PC                 Mikhail Kopelevich     
+166  KRASNYI OKTYBAR, INC.                        Semyow Kutsura         
+167  LAFARGE NORTH AMERICA                        William J. Kastin      
+170  LEE SPRINGS COMPANY                          Susan Fermisco         
+174  M & R CPA'S LLP                              Frank Musacchio        
+183  MESORAH PUBLICATIONS, LTD & SEFERCRAFT, INC  Rabbi Meir Zlotowitz   
+185  MKJ COMMUNICATIONS, INC                      Jennifer Herman        
+189  MYT WORKS, INC                               Etienne Sauret         
+191  NATIONAL BIAS BINDING CORP.                  Jay Gagliano           
+200  NOVA OFFSET CORP                             Lance Burns            
+203  ONE GIRL COOKIES, LTD.                       David Crofton          
+218  POSTMEDS, INC.                               Jesse Brummer          
+237  SILLY PHILLIE CREATIONS, INC.                RICHARD SIDAO          
+264  TONER QUEST, INC.                            Jacob (JJ) Fried       
+273  URBAN GREEN LLC                              Elias  Didaskalou      
+275  VALON REALTY, LLC                            Agim Lleshi            
+277  VERA INSTITUTE OF JUSTICE, INC.              Lidia Shelley          
+279  VIVA TIME CORP.                              CHAYA HARARI           
+289  WIGGBY PRECISION MACHINE CORP.               RONALD WIGGBERG        
+291  WILLIAM HIRD & CO., INC.                     Thomas E. Bury         
+
+                            company email company phone  \
+1    akimball@industrycity.com             3474178429     
+15   rich@abelcine.com                     6469339992     
+16   tracy.lesnau@accenture.com            9259745848     
+18   sarah.robinson1@consultant.aecom.com  2128960109     
+24   alliedsamplecard@netzero.net          7182380523     
+26   martinw@allstatemedical.com           7183697100     
+33   vincenttheures@approvedoil.com        7182381050     
+42   nbarone@baronesteel.com               7188324705     
+45   gabe@bensonmills.com                  7185321401     
+47   MDANA@BESTCASECELLULAR.COM            8003468746     
+49   maxivision@msn.com                    7189375848     
+55   info@brkdistilling.com                3477254985     
+57   crau@brooklynitx.com                  2125821199     
+58   jgewitrtzbrooklynnets.com             7189429544     
+65   rob@cavcoroofing.com                  7182652551     
+72   michael@mtmsalescorp.com              2015201366     
+78   Renee@cotronics.com                   7187885533     
+79   paula@crepini.com                     7183720505     
+80   pfung@crystallaketrading.com          7187590088     
+85   info@dartmedicallab.com               7189341918     
+91   Dkhusial@DTCC.com                     2128558287     
+109  oleg.ezink@gmail.com                  7183698211     
+138  NaN                                   2126860401     
+146  carol@maliamills.com                  2123544200     
+148  ecupit@idlelectric.com                7184429099     
+153  jacques@mrchocolate.com               2124142462     
+158  tomifm@gmail.com                      7183617527     
+163  cityonere@aol.com                     7183490050     
+165  mkopelevich@kflawny.com               7183320577     
+166  gvgendel@gmail.com                    7188586720     
+167  bill.kastin@lafarge-na.com            7184999205     
+170  sfermisco@leespring.com               7183625185     
+174  frank@mandrcpas.com                   9293378740     
+183  MEIR@MESORAH.COM                      7189219000     
+185  jherman@mkjcomm.com                   2122060072     
+189  etienne@mytworks.com                  2123373789     
+191  jay@nationaltextile.net               7184394800     
+200  lance@novaprinting.com                2123491233     
+203  dave@onegirlcookies.com               2126754996     
+218  jesse.brummer@truepill.com            4156152145     
+237  richard@sillyphillie.com              7184926300     
+264  jj@tonerquest.com                     7187059628     
+273  urbangreenfurniture.com               7185670777     
+275  allroofingcorp@aol.com                7184399101     
+277  Lshelley@vera.org                     2123341300     
+279  jpharari@vivatime.com                 7184928730     
+289  wiggbyprecision@prodigy.net           7184396900     
+291  tebury@hirdco.com                     7184994881     
+
+                                     Address      City State  Postcode  \
+1    220 36th St, Suite 2A                    Brooklyn  NY    11232      
+15   88 35th St, 4th Fl                       Brooklyn  NY    11232      
+16   219 36th Street                          Brooklyn  NY    11232      
+18   220 36th St, Suite 2-5-A                 Brooklyn  NY    11232      
+24   140 58th St, Bldg A, Suite 3M            Brooklyn  NY    11220      
+26   34 35th Street, Unit B530                Brooklyn  NY    11232      
+33   202-224 64th Street                      Brooklyn  NY    11220      
+42   128 44th Street                          BROOKLYN  NY    11232      
+45   140 58TH ST. BLDG. A UNIT 7J             Brooklyn  NY    11220      
+47   140 58TH STREET                          Brooklyn  NY    11220      
+49   140 58th Street, Bldg B #8D              Brookln   NY    11220      
+55   75-77 19th St, 1A First Floor            Brooklyn  NY    11232      
+57   140 58th Street, Building A, Suite 2100  Brooklyn  NY    11220      
+58   146-168 39th Street                      Brooklyn  NY    11216      
+65   338 37TH STREET                          Brooklyn  NY    11232      
+72   241 37th St. Suite B460                  Brooklyn  NY    11232      
+78   131 47th Street                          Brooklyn  NY    11232      
+79   5600 1st Avenue                          Brooklyn  NY    11220      
+80   140 58th Street Bldg. B Unit 4B          Brooklyn  NY    11220      
+85   140 58th Street Bldg. A Unit 3L          Brooklyn  NY    11220      
+91   140 58TH STREET                          Brooklyn  NY    11220      
+109  140 58th Street Bldg. B Unit 4E          Brooklyn  NY    11220      
+138  62 18TH STREET 6TH FL                    BROOKLYN  NY    11215      
+146  32 33rd Street                           Brooklyn  NY    11232      
+148  850 Third Ave, #408                      Brooklyn  NY    11232      
+153  140 58th Street                          Brooklyn  NY    11220      
+158  162 44th Street                          Brooklyn  NY    11232      
+163  4702 Second Ave                          Brooklyn  NY    11232      
+165  241 37th St. Suite B439                  Brooklyn  NY    11237      
+166  60 20th Street                           Brooklyn  NY    11232      
+167  75 25th Street                           Brooklyn  NY    11232      
+170  140 58th St. 3C                          Brooklyn  NY    11220      
+174  241 37th St. Suite A304                  Brooklyn  NY    11232      
+183  4401 2nd Ave                             Brooklyn  NY    11232      
+185  850 Third Ave, Suite 407A                Brooklyn  NY    11232      
+189  138 30th Street                          Brooklyn  NY    11232      
+191  140 58th Street, Bldg. A , Unit 2L       Brooklyn  NY    11220      
+200  226 52nd Street                          Brooklyn  NY    11220      
+203  254 36th Street, Unit 17                 Brooklyn  NY    11232      
+218  850 Third Ave                            Brooklyn  NY    11232      
+237  140 58TH STREET BLDG. B UNIT 6F          Brooklyn  NY    11220      
+264  241 37th St. Suite #302                  Brooklyn  NY    11232      
+273  140 58th Street, Bldg B, #8F             Brooklyn  NY    11220      
+275  260 51st Street                          Brooklyn  NY    11220      
+277  34 35th St, Sts 4-2A, 4-3A, 4-3BNW       Brooklyn  NY    11232      
+279  140 58TH STREET BLDG B UNIT 7F           Brooklyn  NY    11220      
+289  140 58th  Street Bldg. A Unit 8          Brooklyn  NY    11220      
+291  255 40th Street                          Brooklyn  NY    11232      
+
+                             Industry  \
+1    Landlord                           
+15   Commercial                         
+16   Commercial                         
+18   Commercial                         
+24   Manufacturing                      
+26   Wholesale/Warehouse/Distribution   
+33   Commercial                         
+42   Manufacturing                      
+45   Manufacturing                      
+47   Wholesale/Warehouse/Distribution   
+49   Manufacturing                      
+55   Manufacturing                      
+57   Manufacturing                      
+58   Commercial                         
+65   Wholesale/Warehouse/Distribution   
+72   Wholesale/Warehouse/Distribution   
+78   Manufacturing                      
+79   Manufacturing                      
+80   Manufacturing                      
+85   Commercial                         
+91   Commercial                         
+109  Wholesale/Warehouse/Distribution   
+138  Manufacturing                      
+146  Wholesale/Warehouse/Distribution   
+148  Commercial                         
+153  Manufacturing                      
+158  Manufacturing                      
+163  Manufacturing                      
+165  Commercial                         
+166  Wholesale/Warehouse/Distribution   
+167  Wholesale/Warehouse/Distribution   
+170  Manufacturing                      
+174  Other                              
+183  Manufacturing                      
+185  Commercial                         
+189  Manufacturing                      
+191  Manufacturing                      
+200  Manufacturing                      
+203  Commercial                         
+218  Wholesale/Warehouse/Distribution   
+237  Manufacturing                      
+264  Wholesale/Warehouse/Distribution   
+273  Manufacturing                      
+275  Commercial                         
+277  Commercial                         
+279  Wholesale/Warehouse/Distribution   
+289  Manufacturing                      
+291  Manufacturing                      
+
+                                                                     Industry descr  \
+1    Special Eligible Premises for eligible businesses                                
+15   Rental, resale and service motion picture cameras and accessories                
+16   Global consulting firm                                                           
+18   design and construction management                                               
+24   MGF OF FOLDERS, FBR BKS                                                          
+26   medical supplies for facilities                                                  
+33   Dist. of Heating Oil                                                             
+42   Fabricator and erector of structural steel                                       
+45   MANUFACTURING                                                                    
+47   DISB. CELLULAR PHONES                                                            
+49   Dress uniforms                                                                   
+55   Distiller of Spirits                                                             
+57   Drugs to fight cancer and other viral diseases                                   
+58   Administrative Back office                                                       
+65   roof fabricator & contractor                                                     
+72   Supply Casino with promotional/giveaways                                         
+78   Manufactures and distrbutes high temper materials and condutive adhesives        
+79   mfg branded line of crepes                                                       
+80   Mfg. of Dresses                                                                  
+85   Clinical Laboratory testing facility                                             
+91   DATA PROCESSING                                                                  
+109  Industrial Supply Wholesalers                                                    
+138  Cabinets and doors                                                               
+146  Women apparel                                                                    
+148  Electrical Contractors                                                           
+153  chocolates and bakery products                                                   
+158  jewelry                                                                          
+163  Mfg. of Nuts                                                                     
+165  Back Office                                                                      
+166  Commercial Imports and distributor of Ethnic foods from Eastern Europe           
+167  Portland and slag cement                                                         
+170  MGF OF METAL SPRING                                                              
+174  full-service accounting firm specialize in the retail, wholesale, real estate,   
+183  Publisher, bookbinder and printer                                                
+185  Communications design, engineering and system installation                       
+189  Mfg & design camera support systems for the film industry                        
+191  Mfg. of binding & termming                                                       
+200  Printer                                                                          
+203  Bake Goods                                                                       
+218  Online pharmacy delivery services.                                               
+237  MGF BABY CLOTHES & GIFTS                                                         
+264  office products                                                                  
+273  furniture manufacturing                                                          
+275  Lanlord                                                                          
+277  Criminal JusticePolicy Research & Technical Assistance                           
+279  IMPORT/EXPORT OF WATCHES                                                         
+289  MANUFACTURING                                                                    
+291  Manufacture fire protection systems                                              
+
+    Company Type  Current fulltime  Job created  Job retain Effective Date  \
+1    ECSP         25.0             NaN          NaN          02/03/2020      
+15   ECSP         86.0             NaN          NaN          04/02/2020      
+16   ECSP         63.0             NaN          NaN          04/03/2019      
+18   ECSP         27.0             NaN          NaN          05/01/2020      
+24   ECSP         17.0             NaN          NaN          07/03/2014      
+26   ECSP         24.0             NaN          NaN          02/21/2020      
+33   ECSP         140.0            NaN          NaN          10/14/2010      
+42   ECSP         57.0             NaN          NaN          02/12/2008      
+45   ECSP         15.0             NaN          NaN          10/02/2009      
+47   ECSP         20.0             NaN          NaN          05/15/2015      
+49   ECSP         140.0            NaN          NaN          09/01/2016      
+55   ECSP         1.0              NaN          NaN          03/16/2010      
+57   ECSP         8.0              NaN          NaN          11/14/2016      
+58   ECSP         62.0             NaN          NaN          06/13/2016      
+65   ECSP         8.0              NaN          NaN          06/12/2009      
+72   ECSP         4.0              NaN          NaN          12/03/2019      
+78   ECSP         18.0             NaN          NaN          05/15/2013      
+79   ECSP         5.0              NaN          NaN          10/13/2011      
+80   ECSP         3.0              NaN          NaN          11/01/2010      
+85   ECSP         22.0             NaN          NaN          03/19/2015      
+91   ECSP         100.0            NaN          NaN          07/03/2013      
+109  ECSP         38.0             NaN          NaN          09/03/2014      
+138  ECSP         7.0              NaN          NaN          08/10/2007      
+146  ECSP         13.0             NaN          NaN          10/30/2018      
+148  ECSP         89.0             NaN          NaN          02/12/2020      
+153  ECSP         23.0             NaN          NaN          07/03/2013      
+158  ECSP         10.0             NaN          NaN          11/14/2016      
+163  ECSP         45.0             NaN          NaN          11/13/2009      
+165  ECSP         10.0             NaN          NaN          12/03/2019      
+166  ECSP         17.0             NaN          NaN          04/12/2018      
+167  ECSP         5.0              NaN          NaN          07/12/2007      
+170  ECSP         168.0            NaN          NaN          09/03/2014      
+174  ECSP         8.0              NaN          NaN          02/03/2020      
+183  ECSP         108.0            NaN          NaN          03/18/2013      
+185  ECSP         18.0             NaN          NaN          04/12/2018      
+189  ECSP         5.0              NaN          NaN          01/11/2019      
+191  ECSP         10.0             NaN          NaN          03/06/2015      
+200  ECSP         15.0             NaN          NaN          10/15/2015      
+203  ECSP         18.0             NaN          NaN          03/17/2020      
+218  ECSP         3.0              NaN          NaN          11/08/2019      
+237  ECSP         18.0             NaN          NaN          07/03/2013      
+264  ECSP         12.0             NaN          NaN          03/04/2020      
+273  ECSP         11.0             NaN          NaN          03/06/2015      
+275  ECSP         12.0             NaN          NaN          10/14/2010      
+277  ECSP         165.0            NaN          NaN          02/10/2020      
+279  ECSP         10.0             NaN          NaN          12/04/2014      
+289  ECSP         48.0             NaN          NaN          05/15/2015      
+291  ECSP         24.0             NaN          NaN          07/11/2008      
+
+     Total Savings  Savings from beginning receiving benefits   Borough  \
+1    2159.67        6755.31                                    Brooklyn   
+15   5268.09        16944.18                                   Brooklyn   
+16   11789.99       16571.14                                   Brooklyn   
+18   1868.34        8412.79                                    Brooklyn   
+24   512.84         14654.07                                   Brooklyn   
+26   1538.23        6121.13                                    Brooklyn   
+33   2691.22        23570.39                                   Brooklyn   
+42   3283.98        167921.50                                  Brooklyn   
+45   1152.62        31675.14                                   Brooklyn   
+47   4717.77        30851.48                                   Brooklyn   
+49   22853.53       89502.63                                   Brooklyn   
+55   1242.38        27719.74                                   Brooklyn   
+57   6034.54        16676.90                                   Brooklyn   
+58   141833.39      2197349.92                                 Brooklyn   
+65   235.26         4394.39                                    Brooklyn   
+72   1387.94        2741.38                                    Brooklyn   
+78   5096.14        30949.25                                   Brooklyn   
+79   5580.07        152892.17                                  Brooklyn   
+80   5012.60        106234.66                                  Brooklyn   
+85   4160.38        34562.74                                   Brooklyn   
+91   335778.11      2376660.64                                 Brooklyn   
+109  564.38         57013.29                                   Brooklyn   
+138 -23.92          22304.07                                   Brooklyn   
+146  4726.00        6472.27                                    Brooklyn   
+148  212.59         212.59                                     Brooklyn   
+153  2835.81        38779.91                                   Brooklyn   
+158  1811.56        8825.18                                    Brooklyn   
+163  40015.98       497701.54                                  Brooklyn   
+165  639.53         1190.21                                    Brooklyn   
+166  11774.89       31301.35                                   Brooklyn   
+167  300.10         186533.54                                  Brooklyn   
+170  5607.59        101143.89                                  Brooklyn   
+174  1371.57        2852.54                                    Brooklyn   
+183  9369.06        80895.39                                   Brooklyn   
+185  1347.27        3922.81                                    Brooklyn   
+189  3436.76        9083.20                                    Brooklyn   
+191  1144.88        9237.08                                    Brooklyn   
+200  5894.91        31951.92                                   Brooklyn   
+203  1926.80        5824.16                                    Brooklyn   
+218  1417.84        1740.24                                    Brooklyn   
+237  1549.91        16892.26                                   Brooklyn   
+264  551.44         1435.35                                    Brooklyn   
+273  3066.42        29194.62                                   Brooklyn   
+275  724.67         8214.25                                    Brooklyn   
+277  7437.29        25554.95                                   Brooklyn   
+279  2853.32        30002.60                                   Brooklyn   
+289  11280.95       76226.25                                   Brooklyn   
+291  1180.20        36644.27                                   Brooklyn   
+
+      Latitude  Longitude  Community Board  Council District  Census Tract  \
+1    40.656061 -74.007334  307.0            38.0              2.0            
+15   40.656475 -74.006484  307.0            38.0              18.0           
+16   40.656077 -74.007331  307.0            38.0              18.0           
+18   40.656061 -74.007334  307.0            38.0              2.0            
+24   40.645338 -74.022864  307.0            38.0              18.0           
+26   40.657000 -74.007356  307.0            38.0              18.0           
+33   40.641028 -74.024841  307.0            38.0              22.0           
+42   40.653310 -74.014866  307.0            38.0              18.0           
+45   40.645338 -74.022864  307.0            38.0              18.0           
+47   40.645338 -74.022864  307.0            38.0              18.0           
+49   40.645338 -74.022864  307.0            38.0              18.0           
+55   40.665937 -73.997971  307.0            38.0              18.0           
+57   40.645338 -74.022864  307.0            38.0              18.0           
+58   40.655973 -74.011670  307.0            38.0              18.0           
+65   40.654403 -74.006109  307.0            38.0              84.0           
+72   40.655800 -74.008408  307.0            38.0              2.0            
+78   40.651630 -74.016574  307.0            38.0              18.0           
+79   40.646985 -74.022721  307.0            38.0              18.0           
+80   40.645338 -74.022864  307.0            38.0              18.0           
+85   40.645338 -74.022864  307.0            38.0              18.0           
+91   40.645338 -74.022864  307.0            38.0              18.0           
+109  40.645338 -74.022864  307.0            38.0              18.0           
+138  40.666626 -73.997675  307.0            38.0              18.0           
+146  40.658251 -74.006433  307.0            38.0              18.0           
+148  40.658518 -74.003327  307.0            38.0              18.0           
+153  40.645338 -74.022864  307.0            38.0              18.0           
+158  40.652989 -74.014333  307.0            38.0              18.0           
+163  40.650686 -74.015287  307.0            38.0              18.0           
+165  40.655800 -74.008408  307.0            38.0              2.0            
+166  40.665171 -73.998144  307.0            38.0              18.0           
+167  40.662023 -74.000588  307.0            38.0              18.0           
+170  40.645338 -74.022864  307.0            38.0              18.0           
+174  40.655800 -74.008408  307.0            38.0              2.0            
+183  40.652366 -74.013511  307.0            38.0              2.0            
+185  40.658518 -74.003327  307.0            38.0              18.0           
+189  40.658304 -74.002004  307.0            38.0              101.0          
+191  40.645338 -74.022864  307.0            38.0              18.0           
+200  40.647523 -74.017362  307.0            38.0              20.0           
+203  40.655951 -74.007158  307.0            38.0              2.0            
+218  40.658518 -74.003327  307.0            38.0              18.0           
+237  40.645338 -74.022864  307.0            38.0              18.0           
+264  40.655800 -74.008408  307.0            38.0              2.0            
+273  40.645338 -74.022864  307.0            38.0              18.0           
+275  40.647760 -74.016249  307.0            38.0              20.0           
+277  40.657000 -74.007356  307.0            38.0              18.0           
+279  40.645338 -74.022864  307.0            38.0              18.0           
+289  40.645338 -74.022864  307.0            38.0              18.0           
+291  40.653997 -74.009925  307.0            38.0              2.0            
+
+           BIN           BBL               NTA  
+1    3398687.0  3.006950e+09  Sunset Park West  
+15   3336903.0  3.006910e+09  Sunset Park West  
+16   3345565.0  3.006910e+09  Sunset Park West  
+18   3398687.0  3.006950e+09  Sunset Park West  
+24   3414976.0  3.057780e+09  Sunset Park West  
+26   3336903.0  3.006910e+09  Sunset Park West  
+33   3144127.0  3.058160e+09  Sunset Park West  
+42   3320138.0  3.007350e+09  Sunset Park West  
+45   3414976.0  3.057780e+09  Sunset Park West  
+47   3414976.0  3.057780e+09  Sunset Park West  
+49   3414976.0  3.057780e+09  Sunset Park West  
+55   3336793.0  3.006320e+09  Sunset Park West  
+57   3414976.0  3.057780e+09  Sunset Park West  
+58  NaN        NaN            Sunset Park West  
+65   3000000.0  3.007000e+09  Sunset Park West  
+72   3336906.0  3.006950e+09  Sunset Park West  
+78   3322614.0  3.007350e+09  Sunset Park West  
+79   3255737.0  3.008190e+09  Sunset Park West  
+80   3414976.0  3.057780e+09  Sunset Park West  
+85   3414976.0  3.057780e+09  Sunset Park West  
+91   3414976.0  3.057780e+09  Sunset Park West  
+109  3414976.0  3.057780e+09  Sunset Park West  
+138  3336793.0  3.006320e+09  Sunset Park West  
+146  3336897.0  3.006830e+09  Sunset Park West  
+148  3009889.0  3.006710e+09  Sunset Park West  
+153  3414976.0  3.057780e+09  Sunset Park West  
+158  3322615.0  3.007350e+09  Sunset Park West  
+163  3250698.0  3.007620e+09  Sunset Park West  
+165  3336906.0  3.006950e+09  Sunset Park West  
+166  3336798.0  3.006350e+09  Sunset Park West  
+167  3414710.0  3.006440e+09  Sunset Park West  
+170  3414976.0  3.057780e+09  Sunset Park West  
+174  3336906.0  3.006950e+09  Sunset Park West  
+183  3337169.0  3.007360e+09  Sunset Park West  
+185  3009889.0  3.006710e+09  Sunset Park West  
+189  3009895.0  3.006720e+09  Sunset Park West  
+191  3414976.0  3.057780e+09  Sunset Park West  
+200  3388019.0  3.008050e+09  Sunset Park West  
+203  3398687.0  3.006950e+09  Sunset Park West  
+218  3009889.0  3.006710e+09  Sunset Park West  
+237  3414976.0  3.057780e+09  Sunset Park West  
+264  3336906.0  3.006950e+09  Sunset Park West  
+273  3414976.0  3.057780e+09  Sunset Park West  
+275  3398918.0  3.007970e+09  Sunset Park West  
+277  3336903.0  3.006910e+09  Sunset Park West  
+279  3414976.0  3.057780e+09  Sunset Park West  
+289  3414976.0  3.057780e+09  Sunset Park West  
+291  3010468.0  3.007070e+09  Sunset Park West  "
+"                       Company Name      company contact  \
+36   ARMADA NEW YORK LLC             Cory Watson           
+64   CASUAL FILMS, INC.              Barnaby Cook          
+82   D.S. & DURGA LLC                Kavita Ahuja          
+116  FIDELITY PAYMENT SERVICES LTD.  Uri Kunstlinger       
+124  GCREATE LLC                     Anna Lee              
+125  GLOBUS CORK, INC.               Jennifer Biscoe       
+134  HALL STREET STORAGE LLC         Jeffrey Sitt          
+145  HUSH STUDIOS, INC.              David Schwarz         
+168  LAFAYETTE 148, INC              Thomas Hoi            
+215  PICTURE FARM II, LLC            Monae Freeman         
+222  R SIMON DESIGN, INC.            Jasmine Labeau        
+226  RONY ELKA VARDI, INC            Daniel Stenson        
+230  RUSS OPS LLC                    Niki  Russ Federman   
+254  SUNSET PARK FARM LLC            Gwen  Schantz         
+266  TRANSMITTER BREWING LLC         Anthony Accardi       
+
+                   company email company phone  \
+36   cory@armadany.com            2677335445     
+64   barnaby@casualfilms.com      2127964933     
+82   durga@dsanddurga.com         9176125566     
+116  legal@fidelitypayment.com    7187822823     
+124  anna@gcreate.com             7188528418     
+125  info@corkfloor.com           7187427264     
+134  jsitt@vinegarhillhc.com      7188553636     
+145  info@heyhush.com             7184221537     
+168  tom.hoi@lafayette148.com     6467087000     
+215  monae@picturefarmpro.com     7182188001     
+222  jasmine@lightsup.info        7184994209     
+226  dan@catbirdnyc.com           6469301977     
+230  niki@russanddaughters.com    2124754880     
+254  gwen@brooklyngrangefarm.com  7184042023     
+266  ant@transmitterbrewing.com   6463788529     
+
+                                         Address      City State  Postcode  \
+36   141 Flushing Ave, Bldg 77, Unit 404          Brooklyn  NY    11205      
+64   141 Flushing Ave, Bldg 77, Ste #902          Brooklyn  NY    11205      
+82   141 Flushing Ave, Bldg 77, #608              Brooklyn  NY    11205      
+116  141 Flushing Ave, Bldg 77, Suites 501 & 510  Brooklyn  NY    11205      
+124  141 Flushing Ave, Bldg 77, Ste 605           Brooklyn  NY    11205      
+125  141 Flushing Ave, Bldg 77, #604              Brooklyn  NY    11025      
+134  12-38 HALL STREET                            Brooklyn  NY    11205      
+145  141 Flushing Ave, Bldg 77, #602              Brooklyn  NY    11205      
+168  141 Flushing Ave, Bldg 77, 14th Fl           Brooklyn  NY    11205      
+215  141 Flushing Ave, Ste 506                    Brooklyn  NY    11205      
+222  141 Flushing Ave, Bldg. 77  #907             Brooklyn  NY    11205      
+226  141 Flushing Ave, Bldg 77, Unit #903         Brooklyn  NY    11205      
+230  141 Flushing Ave, Bldg 77, #102              Brooklyn  NY    11205      
+254  63 Flushing Ave, Bldg 3 #1105                Brooklyn  NY    11205      
+266  141 Flushing Ave, Bldg 77, Ste 104           Brooklyn  NY    11205      
+
+                             Industry  \
+36   Manufacturing                      
+64   Manufacturing                      
+82   Manufacturing                      
+116  Commercial                         
+124  Manufacturing                      
+125  Manufacturing                      
+134  Wholesale/Warehouse/Distribution   
+145  Commercial                         
+168  Wholesale/Warehouse/Distribution   
+215  Commercial                         
+222  Manufacturing                      
+226  Manufacturing                      
+230  Manufacturing                      
+254  Manufacturing                      
+266  Manufacturing                      
+
+                                        Industry descr Company Type  \
+36   wood furniture                                     ECSP          
+64   film production and post production                ECSP          
+82   perfume and candles                                ECSP          
+116  Merchant payment processing & related svcs         ECSP          
+124  mfg and distribute 3D printers                     ECSP          
+125  Manufacturer of color tiles                        ECSP          
+134  Cold storage, dry storage warehouse                ECSP          
+145  Graphic design                                     ECSP          
+168  Mfg & distribute women''s apparel and accessories  ECSP          
+215  video production                                   ECSP          
+222  Design and Produce Lighting Fixtures               ECSP          
+226  jewelry                                            ECSP          
+230  Food  Manufacturer                                 ECSP          
+254  greenhouse vegetables and flowers                  ECSP          
+266  beer brewer                                        ECSP          
+
+     Current fulltime  Job created  Job retain Effective Date  Total Savings  \
+36   10.0             NaN          NaN          05/20/2019     4385.80         
+64   17.0             NaN          NaN          04/19/2019     1340.05         
+82   8.0              NaN          NaN          08/19/2019     920.08          
+116  76.0             NaN          NaN          05/20/2019     9584.90         
+124  5.0              NaN          NaN          04/19/2019     1951.66         
+125  8.0              NaN          NaN          07/19/2019     2347.61         
+134  21.0             NaN          NaN          07/08/2014     81492.53        
+145  14.0             NaN          NaN          03/21/2019     3040.72         
+168  300.0            NaN          NaN          01/14/2019     64379.58        
+215  26.0             NaN          NaN          04/19/2019     3509.41         
+222  10.0             NaN          NaN          04/19/2019     1509.56         
+226  103.0            NaN          NaN          02/20/2019     9848.65         
+230  31.0             NaN          NaN          04/19/2019     18093.75        
+254  11.0             NaN          NaN          05/12/2020     1150.25         
+266  5.0              NaN          NaN          08/19/2019     11356.74        
+
+     Savings from beginning receiving benefits   Borough   Latitude  \
+36   7810.11                                    Brooklyn  40.697863   
+64   2606.63                                    Brooklyn  40.697863   
+82   2047.66                                    Brooklyn  40.697863   
+116  16510.55                                   Brooklyn  40.697863   
+124  3698.07                                    Brooklyn  40.697863   
+125  4060.38                                    Brooklyn  40.697863   
+134  328295.65                                  Brooklyn  40.697200   
+145  5821.14                                    Brooklyn  40.697863   
+168  99681.50                                   Brooklyn  40.697863   
+215  6762.69                                    Brooklyn  40.697863   
+222  2501.52                                    Brooklyn  40.697863   
+226  18667.55                                   Brooklyn  40.697863   
+230  31813.35                                   Brooklyn  40.697863   
+254  1926.51                                    Brooklyn  40.698020   
+266  18901.61                                   Brooklyn  40.697863   
+
+     Longitude  Community Board  Council District  Census Tract        BIN  \
+36  -73.971138  302.0            33.0              543.0         3335143.0   
+64  -73.971138  302.0            33.0              543.0         3335143.0   
+82  -73.971138  302.0            33.0              543.0         3335143.0   
+116 -73.971138  302.0            33.0              543.0         3335143.0   
+124 -73.971138  302.0            33.0              543.0         3335143.0   
+125 -73.971138  302.0            33.0              543.0         3335143.0   
+134 -73.966663  302.0            35.0              543.0         3334438.0   
+145 -73.971138  302.0            33.0              543.0         3335143.0   
+168 -73.971138  302.0            33.0              543.0         3335143.0   
+215 -73.971138  302.0            33.0              543.0         3335143.0   
+222 -73.971138  302.0            33.0              543.0         3335143.0   
+226 -73.971138  302.0            33.0              543.0         3335143.0   
+230 -73.971138  302.0            33.0              543.0         3335143.0   
+254 -73.974986  302.0            33.0              543.0         3335129.0   
+266 -73.971138  302.0            33.0              543.0         3335143.0   
+
+              BBL                         NTA  
+36   3.020230e+09  park-cemetery-etc-Brooklyn  
+64   3.020230e+09  park-cemetery-etc-Brooklyn  
+82   3.020230e+09  park-cemetery-etc-Brooklyn  
+116  3.020230e+09  park-cemetery-etc-Brooklyn  
+124  3.020230e+09  park-cemetery-etc-Brooklyn  
+125  3.020230e+09  park-cemetery-etc-Brooklyn  
+134  3.018750e+09  park-cemetery-etc-Brooklyn  
+145  3.020230e+09  park-cemetery-etc-Brooklyn  
+168  3.020230e+09  park-cemetery-etc-Brooklyn  
+215  3.020230e+09  park-cemetery-etc-Brooklyn  
+222  3.020230e+09  park-cemetery-etc-Brooklyn  
+226  3.020230e+09  park-cemetery-etc-Brooklyn  
+230  3.020230e+09  park-cemetery-etc-Brooklyn  
+254  3.020230e+09  park-cemetery-etc-Brooklyn  
+266  3.020230e+09  park-cemetery-etc-Brooklyn  "
